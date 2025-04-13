@@ -49,7 +49,7 @@ def main():
             for i, s in enumerate(danhSach):
                 if s.getmaSach() == maXoa:
                     del danhSach[i]
-                    print("✅ Đã xóa sách.")
+                    print("Đã xóa sách.")
                     break
             else:
                 print("Không tìm thấy sách để xóa.")
