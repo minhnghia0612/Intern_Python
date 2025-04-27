@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO-DO List</title>
+<!--    <link rel="stylesheet" href="style.css">-->
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial,sans-serif;
+}
+
+body{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+h1{
+    margin: 50px;
+    text-transform: uppercase;
+}
+.input-section{
+    display: flex;
+    margin-bottom: 20px;
+}
+.input-section input{
+    border-color: cornflowerblue;
+    border-radius: 10px ;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.input-section-job{
+    width: 20rem;
+}
+button{
+    width: 40px;
+    height: 40px;
+    border: none;
+    font-size:16px;
+    background-color: plum;
+    transition: background-color 0.5s;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: hotpink ;
+}
+.table-checklist{
+    display: table;
+    width: 100%;
+    border-spacing: 0;
+}
+th{
+    text-transform: uppercase;
+    padding:5px;
+    border: 1px solid #111111;
+    color: cornflowerblue;
+}
+tr:nth-child(even){
+    background-color: dimgray;
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+    <header>
+        <h1>
+            Danh sách công việc
+        </h1>
+        <div class="input-section">
+            <input type="text" placeholder="Thêm công việc..." class="input-section-job" id="job">
+            <input type="date" class="input-section-date" id="date">
+            <button onclick="button_add('add')">+</button>
+        </div>
+    </header>
+    <table class="table-checklist">
+        <thead>
+            <tr>
+                <th style="width: 60%">Công việc</th>
+                <th style="width: 30%">Ngày đến hạn</th>
+                <th style="width: 10%">Xóa</th>
+            </tr>
+        </thead>
+        <tbody id="task">
+
+        </tbody>
+    </table>
+    </div>
+<!--    <script src="script.js"></script>-->
+    <script>
+async function button_add(operation) {
+    const inputJobElement = document.getElementById('job');
+    const inputDateElement = document.getElementById('date');
+
+    const inputJob = inputJobElement.value.trim();
+    const inputDate = inputDateElement.value;
+
+    if (inputJob === '' || inputDate === '') {
+        alert('An error');
+        return;
+    }
+
+    try {
+        const response = await fetch('/button_add', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                inputJob: inputJob,
+                inputDate: inputDate,
+                operation: operation
+            })
+        });
+        const data = await response.json();
+        loadJob();
+
+        inputJobElement.value='';
+        inputDateElement.value='';
+    } catch (error) {
+        console.error('Error:', error);
+        alert('An error');
+    }
+}
+
+async function loadJob() {
+    try {
+        const response = await fetch('/task');
+        const data = await response.json();
+        const table = document.getElementById('task');
+        table.innerHTML = '';
+
+        data.forEach(item => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${item.job}</td>
+                <td>${item.date}</td>
+                <td><button onclick="button_delete('${item.job}', '${item.date}')">X</button></td>
+            `;
+            table.appendChild(row);
+        });
+    } catch (error) {
+        console.error('Error:', error);
+        alert('An error');
+    }
+}
+async function button_delete(job, date) {
+    try{
+        const response = await fetch('/button_delete', {
+            method: 'DELETE',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                inputJob: job,
+                inputDate: date,
+                operation: 'delete'
+            })
+        })
+        const data = await response.json();
+        loadJob();
+    }catch(error){
+        console.error('Error:', error);
+        alert('An error');
+    }
+
+}
+    </script>
+</body>
+</html>
