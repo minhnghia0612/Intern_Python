@@ -22,34 +22,6 @@ class sach():
     def setnamXuatBan(self,namXuatBan):
         self.__namXuatBan=namXuatBan
 
-    # def themSachMoi(self):
-    #     self.__maSach=input("Nhập id sach: ")
-    #     self.__tenSach=input("Nhập tên sách: ")
-    #     self.__tacGia=input("Nhập tên tác giả: ")
-    #     try:
-    #         self.__namXuatBan=int(input("Nhập nam xuất bản: "))
-    #     except ValueError:
-    #         print("Năm phải là số nguyên")
-    #         self.__namXuatBan = 0
-    #
-    # def timKiemSach(self):
-    #     maSachCanTim=input("Nhập mã sách cần tim: ")
-    #     if maSachCanTim == self.getmaSach():
-    #         print(f"Đã tìm thấy sách:{self.gettenSach()}, Tác giả:{self.gettacGia()}, Năm xuất bản:{self.getnamXuatBan()}")
-    #     else:
-    #         print("Không tìm thấy sách")
-    #
-    # def xoaSach(self):
-    #     maSachXoa=input("Nhập mã sách cần xóa: ")
-    #     if maSachXoa == self.getmaSach():
-    #         self.__maSach=""
-    #         self.__tenSach=""
-    #         self.__tacGia=""
-    #         self.__namXuatBan=0
-    #         print("Sách đã được xóa")
-    #     else:
-    #         print("Không tìm thấy sách để xóa")
-
     def hienThi(self):
         print(f"{self.getmaSach():<10} "
               f"{self.gettenSach():<15} "
