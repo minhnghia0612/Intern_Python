@@ -20,9 +20,18 @@ def main():
         choice = menu()
 
         if choice == '1':
-            ma=input("Nhập mã sách: ")
-            tenSach=input("Nhập tên sách: ")
-            tacGia=input("Nhập tên tác giả:")
+            while True:
+                ma = input("Nhập mã sách: ")
+                ma_ton_tai = False
+                for s in danhSach:
+                    if s.getmaSach() == ma:
+                        ma_ton_tai = True
+                        print("Mã sách đã tồn tại")
+                        break
+                if not ma_ton_tai:
+                    break
+            tenSach = input("Nhập tên sách: ")
+            tacGia = input("Nhập tên tác giả:")
             try:
                 namXuatBan=int(input("Nhập năm xuất bản: "))
             except ValueError:
@@ -31,6 +40,7 @@ def main():
             s = sach(ma,tenSach,tacGia,namXuatBan)
             danhSach.append(s)
             print("Đã thêm sách mới.")
+            file.writeFile(danhSach)
 
         elif choice == '2':
             maCanTim = input("Nhập mã sách cần tìm: ")
@@ -53,6 +63,7 @@ def main():
                     break
             else:
                 print("Không tìm thấy sách để xóa.")
+            file.writeFile(danhSach)
 
         elif choice == '4':
             print(f'\n{"STT":<5} {"Mã sách":<10} {"Tên sách":<15} {"Tác giả":<20} {"Năm xuất bản":<20}')
@@ -71,3 +82,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+# sửa thêm lưu trước khi update 

@@ -57,3 +57,10 @@ class fileReader:
             print("WR",e)
 
         return danhSach
+    def writeFile(self,danhSach):
+        try:
+            with open(self.filepath,"w",encoding="utf-8") as f:
+                for sach in danhSach:
+                    f.write(f"{sach.getmaSach()} {sach.gettenSach()} {sach.gettacGia()} {sach.getnamXuatBan()}\n")
+        except Exception as e:
+            print("WR",e)
