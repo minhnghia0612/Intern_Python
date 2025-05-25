@@ -21,7 +21,7 @@ class sach():
         self.__tacGia=tacGia
     def setnamXuatBan(self,namXuatBan):
         self.__namXuatBan=namXuatBan
-
+        
     def hienThi(self):
         print(f"{self.getmaSach():<10} "
               f"{self.gettenSach():<15} "

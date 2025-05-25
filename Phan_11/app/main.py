@@ -85,44 +85,11 @@ def read_current_user(current_user: models.User = Depends(auth.get_current_user)
     print("User:", current_user.username)
     return current_user
 
-# @app.get("/api/items/", response_model=list[schemas.Item])
-# async def read_items(current_user: models.User = Depends(auth.get_current_user),
-#                     db: Session = Depends(get_db)):
-#     try:
-#         items = db.query(models.Item).filter(models.Item.owner_id == current_user.id).all()
-#         return items
-#     except Exception as e:
-#         # e.exception(e)
-#         raise HTTPException(
-#             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-#             detail=f"Error: {str(e)}"
-#         )
-
-#MODELS.USER
 @app.get("/api/items/", response_model=list[schemas.Item])
 async def read_items(current_user: schemas.UserOut = Depends(auth.get_current_user),
                     db: Session = Depends(get_db)):
     items = db.query(models.Item).filter(models.Item.owner_id == current_user.id).all()
     return items
-
-
-# @app.get("/api/items/", response_model=list[schemas.Item])
-# async def read_items(
-#     db: Session = Depends(get_db)
-# ):
-#     try:
-#         items = db.query(models.Item).all()
-#         return items
-#     except Exception as e:
-#         print(e)
-#         tb = traceback.format_exc()
-#         raise HTTPException(
-#             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-#             detail={
-#                 "error": str(e),
-#                 "traceback": tb
-#             }
-#         )
 
 @app.post("/api/items/", response_model=schemas.Item)
 async def create_item(
