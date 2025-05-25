@@ -25,3 +25,4 @@ try:
     print(f"Giá trị bé nhất: {minDanhSach}")
 except ValueError:
     print("ops")
+#code convention
