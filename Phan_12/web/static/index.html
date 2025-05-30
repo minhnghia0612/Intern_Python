@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House price prediction</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>House price prediction</h1>
+        <form id="predictionForm">
+            <input type="number" id="area" placeholder="Nhập diện tích mảnh đất" required>
+            <input type="number" id="bedrooms" placeholder="Nhập số phòng ngủ" required>
+            <input type="number" id="bathrooms" placeholder="Nhập số phòng tắm" required>
+            <input type="number" id="stories" placeholder="Nhập số tầng" required>
+            <button type="submit">Predict Price</button>
+        </form>
+        <div class="result" id="resultMessage"></div>
+
+    </div>
+</body>
+ <script src="static/script.js"></script>
+</html>
