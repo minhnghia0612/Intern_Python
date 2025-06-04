@@ -6,12 +6,6 @@ document.getElementById('predictionForm').addEventListener('submit', async(e) =>
     const bathrooms = parseInt(document.getElementById('bathrooms').value);
     const stories = parseInt(document.getElementById('stories').value);
 
-    const data = {
-        area: area, 
-        bedrooms: bedrooms,
-        bathrooms: bathrooms,
-        stories: stories
-    }
 
     try{
         const response = await fetch('/predict', {
