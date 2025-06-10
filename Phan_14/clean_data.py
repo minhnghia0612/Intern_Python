@@ -51,17 +51,20 @@ db_cafe = item_guess(db_cafe)
 imputer_item = SimpleImputer(missing_values=np.nan, strategy='most_frequent')# Giá trị được nhiều nhất
 db_cafe[['Item']] = imputer_item.fit_transform(db_cafe[['Item']])
 #Xử lý price thiếu sau khi có item
-def item_price(db_cafe):
-    if 'Item' in db_cafe.columns and 'Price Per Unit' in db_cafe.columns:
-        db_cafe[(db_cafe['Item'] == 'Coffee') & (db_cafe['Price Per Unit'].isna())] = 2.0 
-        db_cafe[(db_cafe['Item'] == 'Tea') & (db_cafe['Price Per Unit'].isna())] = 1.5 
-        db_cafe[(db_cafe['Item'] == 'Sandwich') & (db_cafe['Price Per Unit'].isna())] = 4.0 
-        db_cafe[(db_cafe['Item'] == 'Salad') & (db_cafe['Price Per Unit'].isna())] = 5.0
-        db_cafe[(db_cafe['Item'] == 'Cake') & (db_cafe['Price Per Unit'].isna())] = 3.0 
-        db_cafe[(db_cafe['Item'] == 'Cookie') & (db_cafe['Price Per Unit'].isna())] = 1.0 
-        db_cafe[(db_cafe['Item'] == 'Smoothie') & (db_cafe['Price Per Unit'].isna())] = 4.0 
-        db_cafe[(db_cafe['Item'] == 'Juice') & (db_cafe['Price Per Unit'].isna())] = 3.0
-    return db_cafe
+def item_price(db):
+    price_map = {
+        'Coffee': 2.0,
+        'Tea': 1.5,
+        'Sandwich': 4.0,
+        'Salad': 5.0,
+        'Cake': 3.0,
+        'Cookie': 1.0,
+        'Smoothie': 4.0,
+        'Juice': 3.0
+    }
+    for item, price in price_map.items():
+        db.loc[(db['Item'] == item) & (db['Price Per Unit'].isna()), 'Price Per Unit'] = price
+    return db
 db_cafe = item_price(db_cafe)
 # Xử lý quantity và price thiếu
 db_cafe['Quantity'] = db_cafe['Quantity'].fillna(db_cafe['Total Spent'] / db_cafe['Price Per Unit'])
@@ -78,17 +81,18 @@ imputer_location = SimpleImputer(missing_values=np.nan, strategy='most_frequent'
 
 db_cafe[['Payment Method']] = imputer_payment.fit_transform(db_cafe[['Payment Method']])
 db_cafe[['Location']] = imputer_location.fit_transform(db_cafe[['Location']])
-
+print(db_cafe.head(50))
 print(db_cafe.info())
 
 #Chuẩn hóa dữ liệu bằng StandardScaler
-scaler_db = StandardScaler()
-db_cafe_col = ['Quantity', 'Price Per Unit', 'Total Spent'] 
-db_cafe[db_cafe_col] = scaler_db.fit_transform(db_cafe[db_cafe_col])
+# scaler_db = StandardScaler()
+# db_cafe_col = ['Quantity', 'Price Per Unit', 'Total Spent'] 
+# db_cafe[db_cafe_col] = scaler_db.fit_transform(db_cafe[db_cafe_col])
 
-print(db_cafe[db_cafe_col].describe())
 
-plt.figure(figsize=(12, 6))
-sns.boxplot(data=db_cafe[['Quantity', 'Price Per Unit', 'Total Spent']])
-plt.title("Boxplot for Outlier Detection")
-plt.show()
+# print(db_cafe[db_cafe_col].describe())
+
+# plt.figure(figsize=(12, 6))
+# sns.boxplot(data=db_cafe[['Quantity', 'Price Per Unit', 'Total Spent']])
+# plt.title("Boxplot for Outlier Detection")
+# plt.show()
