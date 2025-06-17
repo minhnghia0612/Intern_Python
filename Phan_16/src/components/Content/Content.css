@@ -1,0 +1,31 @@
+.content-item {
+  flex: 1 1 calc(25% - 20px);
+  min-width: calc(15% - 20px);
+  box-sizing: border-box;
+  background: #ebebeb;
+  padding: 0px;
+  border-radius: 8px;
+  list-style: none;
+  margin: 10px;
+}
+img{
+    width: 279.33px;
+    height: 150px;
+}
+h3{
+    color:black;
+    padding-left: 15px !important;
+    margin: 0;
+}
+.des{
+    display: flex;
+}
+p{
+    color:#e03c31;
+    font-size: 16px;
+    font-weight: normal;
+    padding-left: 15px !important;
+    margin: 0px;
+    margin-bottom: 20px;
+    font:"roboto-medium", Helvetica, Arial, sans-serif;
+}

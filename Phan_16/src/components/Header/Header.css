@@ -1,0 +1,38 @@
+.header{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0; 
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.header img{
+    height: 40px;
+    width: auto;
+}
+
+.header-menu-left,
+.header-menu-right {
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 5px 20px;
+}
+a:hover{
+    color:#2C2C2C;
+    background:#FAFAFA;
+    list-style: none;
+}
