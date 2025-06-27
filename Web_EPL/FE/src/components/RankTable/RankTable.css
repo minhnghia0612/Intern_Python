@@ -1,0 +1,53 @@
+.rank-container {
+  background-color:#f9f9fc;
+  color: black;
+  min-height: 100vh;
+  padding: 20px;
+  height: 300px;
+  width: 450px ;
+}
+
+.rank-title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #d6bcfa
+}
+
+.rank-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.rank-table th,
+.rank-table td {
+  border: 1px solid white;
+  padding: 6px 8px;
+  text-align: center;
+}
+
+.rank-table thead th {
+  color: #d6bcfa; /* tím nhạt */
+}
+
+.rank-table td.right-align,
+.rank-table th.right-align {
+  text-align: right;
+}
+
+.bold {
+  font-weight: bold;
+}
+.team-cell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.team-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}

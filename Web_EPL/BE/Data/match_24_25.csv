@@ -1,0 +1,954 @@
+Date,Venue,Result,GF,GA,Opponent,Team
+2024-08-17, Away, W, 2, 0,Ipswich Town,Liverpool
+2024-08-25, Home, W, 2, 0,Brentford,Liverpool
+2024-09-01, Away, W, 3, 0,Manchester Utd,Liverpool
+2024-09-14, Home, L, 0, 1,Nott'ham Forest,Liverpool
+2024-09-17, Away, W, 3, 1,Milan,Liverpool
+2024-09-21, Home, W, 3, 0,Bournemouth,Liverpool
+2024-09-25, Home, W, 5, 1,West Ham,Liverpool
+2024-09-28, Away, W, 2, 1,Wolves,Liverpool
+2024-10-02, Home, W, 2, 0,Bologna,Liverpool
+2024-10-05, Away, W, 1, 0,Crystal Palace,Liverpool
+2024-10-20, Home, W, 2, 1,Chelsea,Liverpool
+2024-10-23, Away, W, 1, 0,RB Leipzig,Liverpool
+2024-10-27, Away, D, 2, 2,Arsenal,Liverpool
+2024-10-30, Away, W, 3, 2,Brighton,Liverpool
+2024-11-02, Home, W, 2, 1,Brighton,Liverpool
+2024-11-05, Home, W, 4, 0,Leverkusen,Liverpool
+2024-11-09, Home, W, 2, 0,Aston Villa,Liverpool
+2024-11-24, Away, W, 3, 2,Southampton,Liverpool
+2024-11-27, Home, W, 2, 0,Real Madrid,Liverpool
+2024-12-01, Home, W, 2, 0,Manchester City,Liverpool
+2024-12-04, Away, D, 3, 3,Newcastle Utd,Liverpool
+2024-12-10, Away, W, 1, 0,Girona,Liverpool
+2024-12-14, Home, D, 2, 2,Fulham,Liverpool
+2024-12-18, Away, W, 2, 1,Southampton,Liverpool
+2024-12-22, Away, W, 6, 3,Tottenham,Liverpool
+2024-12-26, Home, W, 3, 1,Leicester City,Liverpool
+2024-12-29, Away, W, 5, 0,West Ham,Liverpool
+2025-01-05, Home, D, 2, 2,Manchester Utd,Liverpool
+2025-01-08, Away, L, 0, 1,Tottenham,Liverpool
+2025-01-11, Home, W, 4, 0,Acc'ton Stanley,Liverpool
+2025-01-14, Away, D, 1, 1,Nott'ham Forest,Liverpool
+2025-01-18, Away, W, 2, 0,Brentford,Liverpool
+2025-01-21, Home, W, 2, 1,Lille,Liverpool
+2025-01-25, Home, W, 4, 1,Ipswich Town,Liverpool
+2025-01-29, Away, L, 2, 3,PSV Eindhoven,Liverpool
+2025-02-01, Away, W, 2, 0,Bournemouth,Liverpool
+2025-02-06, Home, W, 4, 0,Tottenham,Liverpool
+2025-02-09, Away, L, 0, 1,Plymouth Argyle,Liverpool
+2025-02-12, Away, D, 2, 2,Everton,Liverpool
+2025-02-16, Home, W, 2, 1,Wolves,Liverpool
+2025-02-19, Away, D, 2, 2,Aston Villa,Liverpool
+2025-02-23, Away, W, 2, 0,Manchester City,Liverpool
+2025-02-26, Home, W, 2, 0,Newcastle Utd,Liverpool
+2025-03-05, Away, W, 1, 0,Paris S-G,Liverpool
+2025-03-08, Home, W, 3, 1,Southampton,Liverpool
+2025-03-16, Neutral, L, 1, 2,Newcastle Utd,Liverpool
+2025-04-02, Home, W, 1, 0,Everton,Liverpool
+2025-04-06, Away, L, 2, 3,Fulham,Liverpool
+2025-04-13, Home, W, 2, 1,West Ham,Liverpool
+2025-04-20, Away, W, 1, 0,Leicester City,Liverpool
+2025-04-27, Home, W, 5, 1,Tottenham,Liverpool
+2025-05-04, Away, L, 1, 3,Chelsea,Liverpool
+2025-05-11, Home, D, 2, 2,Arsenal,Liverpool
+2025-05-19, Away, L, 2, 3,Brighton,Liverpool
+2025-05-25, Home, D, 1, 1,Crystal Palace,Liverpool
+2024-08-17, Home, W, 2, 0,Wolves,Arsenal
+2024-08-24, Away, W, 2, 0,Aston Villa,Arsenal
+2024-08-31, Home, D, 1, 1,Brighton,Arsenal
+2024-09-15, Away, W, 1, 0,Tottenham,Arsenal
+2024-09-19, Away, D, 0, 0,Atalanta,Arsenal
+2024-09-22, Away, D, 2, 2,Manchester City,Arsenal
+2024-09-25, Home, W, 5, 1,Bolton,Arsenal
+2024-09-28, Home, W, 4, 2,Leicester City,Arsenal
+2024-10-01, Home, W, 2, 0,Paris S-G,Arsenal
+2024-10-05, Home, W, 3, 1,Southampton,Arsenal
+2024-10-19, Away, L, 0, 2,Bournemouth,Arsenal
+2024-10-22, Home, W, 1, 0,Shakhtar,Arsenal
+2024-10-27, Home, D, 2, 2,Liverpool,Arsenal
+2024-10-30, Away, W, 3, 0,Preston,Arsenal
+2024-11-02, Away, L, 0, 1,Newcastle Utd,Arsenal
+2024-11-06, Away, L, 0, 1,Inter,Arsenal
+2024-11-10, Away, D, 1, 1,Chelsea,Arsenal
+2024-11-23, Home, W, 3, 0,Nott'ham Forest,Arsenal
+2024-11-26, Away, W, 5, 1,Sporting CP,Arsenal
+2024-11-30, Away, W, 5, 2,West Ham,Arsenal
+2024-12-04, Home, W, 2, 0,Manchester Utd,Arsenal
+2024-12-08, Away, D, 1, 1,Fulham,Arsenal
+2024-12-11, Home, W, 3, 0,Monaco,Arsenal
+2024-12-14, Home, D, 0, 0,Everton,Arsenal
+2024-12-18, Home, W, 3, 2,Crystal Palace,Arsenal
+2024-12-21, Away, W, 5, 1,Crystal Palace,Arsenal
+2024-12-27, Home, W, 1, 0,Ipswich Town,Arsenal
+2025-01-01, Away, W, 3, 1,Brentford,Arsenal
+2025-01-04, Away, D, 1, 1,Brighton,Arsenal
+2025-01-07, Home, L, 0, 2,Newcastle Utd,Arsenal
+2025-01-15, Home, W, 2, 1,Tottenham,Arsenal
+2025-01-18, Home, D, 2, 2,Aston Villa,Arsenal
+2025-01-22, Home, W, 3, 0,Dinamo Zagreb,Arsenal
+2025-01-25, Away, W, 1, 0,Wolves,Arsenal
+2025-01-29, Away, W, 2, 1,Girona,Arsenal
+2025-02-02, Home, W, 5, 1,Manchester City,Arsenal
+2025-02-05, Away, L, 0, 2,Newcastle Utd,Arsenal
+2025-02-15, Away, W, 2, 0,Leicester City,Arsenal
+2025-02-22, Home, L, 0, 1,West Ham,Arsenal
+2025-02-26, Away, D, 0, 0,Nott'ham Forest,Arsenal
+2025-03-04, Away, W, 7, 1,PSV Eindhoven,Arsenal
+2025-03-09, Away, D, 1, 1,Manchester Utd,Arsenal
+2025-03-12, Home, D, 2, 2,PSV Eindhoven,Arsenal
+2025-03-16, Home, W, 1, 0,Chelsea,Arsenal
+2025-04-01, Home, W, 2, 1,Fulham,Arsenal
+2025-04-05, Away, D, 1, 1,Everton,Arsenal
+2025-04-08, Home, W, 3, 0,Real Madrid,Arsenal
+2025-04-12, Home, D, 1, 1,Brentford,Arsenal
+2025-04-16, Away, W, 2, 1,Real Madrid,Arsenal
+2025-04-20, Away, W, 4, 0,Ipswich Town,Arsenal
+2025-04-23, Home, D, 2, 2,Crystal Palace,Arsenal
+2025-04-29, Home, L, 0, 1,Paris S-G,Arsenal
+2025-05-03, Home, L, 1, 2,Bournemouth,Arsenal
+2025-05-07, Away, L, 1, 2,Paris S-G,Arsenal
+2025-05-11, Away, D, 2, 2,Liverpool,Arsenal
+2025-05-18, Home, W, 1, 0,Newcastle Utd,Arsenal
+2025-05-25, Away, W, 2, 1,Southampton,Arsenal
+2024-08-18, Away, W, 2, 0,Chelsea,Manchester City
+2024-08-24, Home, W, 4, 1,Ipswich Town,Manchester City
+2024-08-31, Away, W, 3, 1,West Ham,Manchester City
+2024-09-14, Home, W, 2, 1,Brentford,Manchester City
+2024-09-18, Home, D, 0, 0,Inter,Manchester City
+2024-09-22, Home, D, 2, 2,Arsenal,Manchester City
+2024-09-24, Home, W, 2, 1,Watford,Manchester City
+2024-09-28, Away, D, 1, 1,Newcastle Utd,Manchester City
+2024-10-01, Away, W, 4, 0,Slovan Bratislava,Manchester City
+2024-10-05, Home, W, 3, 2,Fulham,Manchester City
+2024-10-20, Away, W, 2, 1,Wolves,Manchester City
+2024-10-23, Home, W, 5, 0,Sparta Prague,Manchester City
+2024-10-26, Home, W, 1, 0,Southampton,Manchester City
+2024-10-30, Away, L, 1, 2,Tottenham,Manchester City
+2024-11-02, Away, L, 1, 2,Bournemouth,Manchester City
+2024-11-05, Away, L, 1, 4,Sporting CP,Manchester City
+2024-11-09, Away, L, 1, 2,Brighton,Manchester City
+2024-11-23, Home, L, 0, 4,Tottenham,Manchester City
+2024-11-26, Home, D, 3, 3,Feyenoord,Manchester City
+2024-12-01, Away, L, 0, 2,Liverpool,Manchester City
+2024-12-04, Home, W, 3, 0,Nott'ham Forest,Manchester City
+2024-12-07, Away, D, 2, 2,Crystal Palace,Manchester City
+2024-12-11, Away, L, 0, 2,Juventus,Manchester City
+2024-12-15, Home, L, 1, 2,Manchester Utd,Manchester City
+2024-12-21, Away, L, 1, 2,Aston Villa,Manchester City
+2024-12-26, Home, D, 1, 1,Everton,Manchester City
+2024-12-29, Away, W, 2, 0,Leicester City,Manchester City
+2025-01-04, Home, W, 4, 1,West Ham,Manchester City
+2025-01-11, Home, W, 8, 0,Salford City,Manchester City
+2025-01-14, Away, D, 2, 2,Brentford,Manchester City
+2025-01-19, Away, W, 6, 0,Ipswich Town,Manchester City
+2025-01-22, Away, L, 2, 4,Paris S-G,Manchester City
+2025-01-25, Home, W, 3, 1,Chelsea,Manchester City
+2025-01-29, Home, W, 3, 1,Club Brugge,Manchester City
+2025-02-02, Away, L, 1, 5,Arsenal,Manchester City
+2025-02-08, Away, W, 2, 1,Leyton Orient,Manchester City
+2025-02-11, Home, L, 2, 3,Real Madrid,Manchester City
+2025-02-15, Home, W, 4, 0,Newcastle Utd,Manchester City
+2025-02-19, Away, L, 1, 3,Real Madrid,Manchester City
+2025-02-23, Home, L, 0, 2,Liverpool,Manchester City
+2025-02-26, Away, W, 1, 0,Tottenham,Manchester City
+2025-03-01, Home, W, 3, 1,Plymouth Argyle,Manchester City
+2025-03-08, Away, L, 0, 1,Nott'ham Forest,Manchester City
+2025-03-15, Home, D, 2, 2,Brighton,Manchester City
+2025-03-30, Away, W, 2, 1,Bournemouth,Manchester City
+2025-04-02, Home, W, 2, 0,Leicester City,Manchester City
+2025-04-06, Away, D, 0, 0,Manchester Utd,Manchester City
+2025-04-12, Home, W, 5, 2,Crystal Palace,Manchester City
+2025-04-19, Away, W, 2, 0,Everton,Manchester City
+2025-04-22, Home, W, 2, 1,Aston Villa,Manchester City
+2025-04-27, Away, W, 2, 0,Nott'ham Forest,Manchester City
+2025-05-02, Home, W, 1, 0,Wolves,Manchester City
+2025-05-10, Away, D, 0, 0,Southampton,Manchester City
+2025-05-17, Neutral, L, 0, 1,Crystal Palace,Manchester City
+2025-05-20, Home, W, 3, 1,Bournemouth,Manchester City
+2025-05-25, Away, W, 2, 0,Fulham,Manchester City
+2024-08-18, Home, L, 0, 2,Manchester City,Chelsea
+2024-08-22, Home, W, 2, 0,Servette FC,Chelsea
+2024-08-25, Away, W, 6, 2,Wolves,Chelsea
+2024-08-29, Away, L, 1, 2,Servette FC,Chelsea
+2024-09-01, Home, D, 1, 1,Crystal Palace,Chelsea
+2024-09-14, Away, W, 1, 0,Bournemouth,Chelsea
+2024-09-21, Away, W, 3, 0,West Ham,Chelsea
+2024-09-24, Home, W, 5, 0,Barrow,Chelsea
+2024-09-28, Home, W, 4, 2,Brighton,Chelsea
+2024-10-03, Home, W, 4, 2,Gent,Chelsea
+2024-10-06, Home, D, 1, 1,Nott'ham Forest,Chelsea
+2024-10-20, Away, L, 1, 2,Liverpool,Chelsea
+2024-10-24, Away, W, 4, 1,Panathinaikos,Chelsea
+2024-10-27, Home, W, 2, 1,Newcastle Utd,Chelsea
+2024-10-30, Away, L, 0, 2,Newcastle Utd,Chelsea
+2024-11-03, Away, D, 1, 1,Manchester Utd,Chelsea
+2024-11-07, Home, W, 8, 0,FC Noah,Chelsea
+2024-11-10, Home, D, 1, 1,Arsenal,Chelsea
+2024-11-23, Away, W, 2, 1,Leicester City,Chelsea
+2024-11-28, Away, W, 2, 0,Heidenheim,Chelsea
+2024-12-01, Home, W, 3, 0,Aston Villa,Chelsea
+2024-12-04, Away, W, 5, 1,Southampton,Chelsea
+2024-12-08, Away, W, 4, 3,Tottenham,Chelsea
+2024-12-12, Away, W, 3, 1,Astana FK,Chelsea
+2024-12-15, Home, W, 2, 1,Brentford,Chelsea
+2024-12-19, Home, W, 5, 1,Shamrock Rov,Chelsea
+2024-12-22, Away, D, 0, 0,Everton,Chelsea
+2024-12-26, Home, L, 1, 2,Fulham,Chelsea
+2024-12-30, Away, L, 0, 2,Ipswich Town,Chelsea
+2025-01-04, Away, D, 1, 1,Crystal Palace,Chelsea
+2025-01-11, Home, W, 5, 0,Morecambe,Chelsea
+2025-01-14, Home, D, 2, 2,Bournemouth,Chelsea
+2025-01-20, Home, W, 3, 1,Wolves,Chelsea
+2025-01-25, Away, L, 1, 3,Manchester City,Chelsea
+2025-02-03, Home, W, 2, 1,West Ham,Chelsea
+2025-02-08, Away, L, 1, 2,Brighton,Chelsea
+2025-02-14, Away, L, 0, 3,Brighton,Chelsea
+2025-02-22, Away, L, 1, 2,Aston Villa,Chelsea
+2025-02-25, Home, W, 4, 0,Southampton,Chelsea
+2025-03-06, Away, W, 2, 1,FC Copenhagen,Chelsea
+2025-03-09, Home, W, 1, 0,Leicester City,Chelsea
+2025-03-13, Home, W, 1, 0,FC Copenhagen,Chelsea
+2025-03-16, Away, L, 0, 1,Arsenal,Chelsea
+2025-04-03, Home, W, 1, 0,Tottenham,Chelsea
+2025-04-06, Away, D, 0, 0,Brentford,Chelsea
+2025-04-10, Away, W, 3, 0,Legia Warsaw,Chelsea
+2025-04-13, Home, D, 2, 2,Ipswich Town,Chelsea
+2025-04-17, Home, L, 1, 2,Legia Warsaw,Chelsea
+2025-04-20, Away, W, 2, 1,Fulham,Chelsea
+2025-04-26, Home, W, 1, 0,Everton,Chelsea
+2025-05-01, Away, W, 4, 1,Djurgården,Chelsea
+2025-05-04, Home, W, 3, 1,Liverpool,Chelsea
+2025-05-08, Home, W, 1, 0,Djurgården,Chelsea
+2025-05-11, Away, L, 0, 2,Newcastle Utd,Chelsea
+2025-05-16, Home, W, 1, 0,Manchester Utd,Chelsea
+2025-05-25, Away, W, 1, 0,Nott'ham Forest,Chelsea
+2025-05-28, Neutral, W, 4, 1,Betis,Chelsea
+2024-08-17, Home, W, 1, 0,Southampton,Newcastle Utd
+2024-08-25, Away, D, 1, 1,Bournemouth,Newcastle Utd
+2024-09-01, Home, W, 2, 1,Tottenham,Newcastle Utd
+2024-09-15, Away, W, 2, 1,Wolves,Newcastle Utd
+2024-09-21, Away, L, 1, 3,Fulham,Newcastle Utd
+2024-09-28, Home, D, 1, 1,Manchester City,Newcastle Utd
+2024-10-01, Home, W, 1, 0,AFC Wimbledon,Newcastle Utd
+2024-10-05, Away, D, 0, 0,Everton,Newcastle Utd
+2024-10-19, Home, L, 0, 1,Brighton,Newcastle Utd
+2024-10-27, Away, L, 1, 2,Chelsea,Newcastle Utd
+2024-10-30, Home, W, 2, 0,Chelsea,Newcastle Utd
+2024-11-02, Home, W, 1, 0,Arsenal,Newcastle Utd
+2024-11-10, Away, W, 3, 1,Nott'ham Forest,Newcastle Utd
+2024-11-25, Home, L, 0, 2,West Ham,Newcastle Utd
+2024-11-30, Away, D, 1, 1,Crystal Palace,Newcastle Utd
+2024-12-04, Home, D, 3, 3,Liverpool,Newcastle Utd
+2024-12-07, Away, L, 2, 4,Brentford,Newcastle Utd
+2024-12-14, Home, W, 4, 0,Leicester City,Newcastle Utd
+2024-12-18, Home, W, 3, 1,Brentford,Newcastle Utd
+2024-12-21, Away, W, 4, 0,Ipswich Town,Newcastle Utd
+2024-12-26, Home, W, 3, 0,Aston Villa,Newcastle Utd
+2024-12-30, Away, W, 2, 0,Manchester Utd,Newcastle Utd
+2025-01-04, Away, W, 2, 1,Tottenham,Newcastle Utd
+2025-01-07, Away, W, 2, 0,Arsenal,Newcastle Utd
+2025-01-12, Home, W, 3, 1,Bromley,Newcastle Utd
+2025-01-15, Home, W, 3, 0,Wolves,Newcastle Utd
+2025-01-18, Home, L, 1, 4,Bournemouth,Newcastle Utd
+2025-01-25, Away, W, 3, 1,Southampton,Newcastle Utd
+2025-02-01, Home, L, 1, 2,Fulham,Newcastle Utd
+2025-02-05, Home, W, 2, 0,Arsenal,Newcastle Utd
+2025-02-08, Away, W, 3, 2,Birmingham City,Newcastle Utd
+2025-02-15, Away, L, 0, 4,Manchester City,Newcastle Utd
+2025-02-23, Home, W, 4, 3,Nott'ham Forest,Newcastle Utd
+2025-02-26, Away, L, 0, 2,Liverpool,Newcastle Utd
+2025-03-02, Home, L, 1, 2,Brighton,Newcastle Utd
+2025-03-10, Away, W, 1, 0,West Ham,Newcastle Utd
+2025-03-16, Neutral, W, 2, 1,Liverpool,Newcastle Utd
+2025-04-02, Home, W, 2, 1,Brentford,Newcastle Utd
+2025-04-07, Away, W, 3, 0,Leicester City,Newcastle Utd
+2025-04-13, Home, W, 4, 1,Manchester Utd,Newcastle Utd
+2025-04-16, Home, W, 5, 0,Crystal Palace,Newcastle Utd
+2025-04-19, Away, L, 1, 4,Aston Villa,Newcastle Utd
+2025-04-26, Home, W, 3, 0,Ipswich Town,Newcastle Utd
+2025-05-04, Away, D, 1, 1,Brighton,Newcastle Utd
+2025-05-11, Home, W, 2, 0,Chelsea,Newcastle Utd
+2025-05-18, Away, L, 0, 1,Arsenal,Newcastle Utd
+2025-05-25, Home, L, 0, 1,Everton,Newcastle Utd
+2024-08-17, Away, W, 2, 1,West Ham,Aston Villa
+2024-08-24, Home, L, 0, 2,Arsenal,Aston Villa
+2024-08-31, Away, W, 2, 1,Leicester City,Aston Villa
+2024-09-14, Home, W, 3, 2,Everton,Aston Villa
+2024-09-17, Away, W, 3, 0,Young Boys,Aston Villa
+2024-09-21, Home, W, 3, 1,Wolves,Aston Villa
+2024-09-24, Away, W, 2, 1,Wycombe,Aston Villa
+2024-09-29, Away, D, 2, 2,Ipswich Town,Aston Villa
+2024-10-02, Home, W, 1, 0,Bayern Munich,Aston Villa
+2024-10-06, Home, D, 0, 0,Manchester Utd,Aston Villa
+2024-10-19, Away, W, 3, 1,Fulham,Aston Villa
+2024-10-22, Home, W, 2, 0,Bologna,Aston Villa
+2024-10-26, Home, D, 1, 1,Bournemouth,Aston Villa
+2024-10-30, Home, L, 1, 2,Crystal Palace,Aston Villa
+2024-11-03, Away, L, 1, 4,Tottenham,Aston Villa
+2024-11-06, Away, L, 0, 1,Club Brugge,Aston Villa
+2024-11-09, Away, L, 0, 2,Liverpool,Aston Villa
+2024-11-23, Home, D, 2, 2,Crystal Palace,Aston Villa
+2024-11-27, Home, D, 0, 0,Juventus,Aston Villa
+2024-12-01, Away, L, 0, 3,Chelsea,Aston Villa
+2024-12-04, Home, W, 3, 1,Brentford,Aston Villa
+2024-12-07, Home, W, 1, 0,Southampton,Aston Villa
+2024-12-10, Away, W, 3, 2,RB Leipzig,Aston Villa
+2024-12-14, Away, L, 1, 2,Nott'ham Forest,Aston Villa
+2024-12-21, Home, W, 2, 1,Manchester City,Aston Villa
+2024-12-26, Away, L, 0, 3,Newcastle Utd,Aston Villa
+2024-12-30, Home, D, 2, 2,Brighton,Aston Villa
+2025-01-04, Home, W, 2, 1,Leicester City,Aston Villa
+2025-01-10, Home, W, 2, 1,West Ham,Aston Villa
+2025-01-15, Away, W, 1, 0,Everton,Aston Villa
+2025-01-18, Away, D, 2, 2,Arsenal,Aston Villa
+2025-01-21, Away, L, 0, 1,Monaco,Aston Villa
+2025-01-26, Home, D, 1, 1,West Ham,Aston Villa
+2025-01-29, Home, W, 4, 2,Celtic,Aston Villa
+2025-02-01, Away, L, 0, 2,Wolves,Aston Villa
+2025-02-09, Home, W, 2, 1,Tottenham,Aston Villa
+2025-02-15, Home, D, 1, 1,Ipswich Town,Aston Villa
+2025-02-19, Home, D, 2, 2,Liverpool,Aston Villa
+2025-02-22, Home, W, 2, 1,Chelsea,Aston Villa
+2025-02-25, Away, L, 1, 4,Crystal Palace,Aston Villa
+2025-02-28, Home, W, 2, 0,Cardiff City,Aston Villa
+2025-03-04, Away, W, 3, 1,Club Brugge,Aston Villa
+2025-03-08, Away, W, 1, 0,Brentford,Aston Villa
+2025-03-12, Home, W, 3, 0,Club Brugge,Aston Villa
+2025-03-30, Away, W, 3, 0,Preston,Aston Villa
+2025-04-02, Away, W, 3, 0,Brighton,Aston Villa
+2025-04-05, Home, W, 2, 1,Nott'ham Forest,Aston Villa
+2025-04-09, Away, L, 1, 3,Paris S-G,Aston Villa
+2025-04-12, Away, W, 3, 0,Southampton,Aston Villa
+2025-04-15, Home, W, 3, 2,Paris S-G,Aston Villa
+2025-04-19, Home, W, 4, 1,Newcastle Utd,Aston Villa
+2025-04-22, Away, L, 1, 2,Manchester City,Aston Villa
+2025-04-26, Away, L, 0, 3,Crystal Palace,Aston Villa
+2025-05-03, Home, W, 1, 0,Fulham,Aston Villa
+2025-05-10, Away, W, 1, 0,Bournemouth,Aston Villa
+2025-05-16, Home, W, 2, 0,Tottenham,Aston Villa
+2025-05-25, Away, L, 0, 2,Manchester Utd,Aston Villa
+2024-08-17, Home, D, 1, 1,Bournemouth,Nott'ham Forest
+2024-08-24, Away, W, 1, 0,Southampton,Nott'ham Forest
+2024-08-31, Home, D, 1, 1,Wolves,Nott'ham Forest
+2024-09-14, Away, W, 1, 0,Liverpool,Nott'ham Forest
+2024-09-22, Away, D, 2, 2,Brighton,Nott'ham Forest
+2024-09-28, Home, L, 0, 1,Fulham,Nott'ham Forest
+2024-10-06, Away, D, 1, 1,Chelsea,Nott'ham Forest
+2024-10-21, Home, W, 1, 0,Crystal Palace,Nott'ham Forest
+2024-10-25, Away, W, 3, 1,Leicester City,Nott'ham Forest
+2024-11-02, Home, W, 3, 0,West Ham,Nott'ham Forest
+2024-11-10, Home, L, 1, 3,Newcastle Utd,Nott'ham Forest
+2024-11-23, Away, L, 0, 3,Arsenal,Nott'ham Forest
+2024-11-30, Home, W, 1, 0,Ipswich Town,Nott'ham Forest
+2024-12-04, Away, L, 0, 3,Manchester City,Nott'ham Forest
+2024-12-07, Away, W, 3, 2,Manchester Utd,Nott'ham Forest
+2024-12-14, Home, W, 2, 1,Aston Villa,Nott'ham Forest
+2024-12-21, Away, W, 2, 0,Brentford,Nott'ham Forest
+2024-12-26, Home, W, 1, 0,Tottenham,Nott'ham Forest
+2024-12-29, Away, W, 2, 0,Everton,Nott'ham Forest
+2025-01-06, Away, W, 3, 0,Wolves,Nott'ham Forest
+2025-01-11, Home, W, 2, 0,Luton Town,Nott'ham Forest
+2025-01-14, Home, D, 1, 1,Liverpool,Nott'ham Forest
+2025-01-19, Home, W, 3, 2,Southampton,Nott'ham Forest
+2025-01-25, Away, L, 0, 5,Bournemouth,Nott'ham Forest
+2025-02-01, Home, W, 7, 0,Brighton,Nott'ham Forest
+2025-02-15, Away, L, 1, 2,Fulham,Nott'ham Forest
+2025-02-23, Away, L, 3, 4,Newcastle Utd,Nott'ham Forest
+2025-02-26, Home, D, 0, 0,Arsenal,Nott'ham Forest
+2025-03-08, Home, W, 1, 0,Manchester City,Nott'ham Forest
+2025-03-15, Away, W, 4, 2,Ipswich Town,Nott'ham Forest
+2025-04-01, Home, W, 1, 0,Manchester Utd,Nott'ham Forest
+2025-04-05, Away, L, 1, 2,Aston Villa,Nott'ham Forest
+2025-04-12, Home, L, 0, 1,Everton,Nott'ham Forest
+2025-04-21, Away, W, 2, 1,Tottenham,Nott'ham Forest
+2025-04-27, Home, L, 0, 2,Manchester City,Nott'ham Forest
+2025-05-01, Home, L, 0, 2,Brentford,Nott'ham Forest
+2025-05-05, Away, D, 1, 1,Crystal Palace,Nott'ham Forest
+2025-05-11, Home, D, 2, 2,Leicester City,Nott'ham Forest
+2025-05-18, Away, W, 2, 1,West Ham,Nott'ham Forest
+2025-05-25, Home, L, 0, 1,Chelsea,Nott'ham Forest
+2024-08-17, Away, W, 3, 0,Everton,Brighton
+2024-08-24, Home, W, 2, 1,Manchester Utd,Brighton
+2024-08-27, Home, W, 4, 0,Crawley Town,Brighton
+2024-08-31, Away, D, 1, 1,Arsenal,Brighton
+2024-09-14, Home, D, 0, 0,Ipswich Town,Brighton
+2024-09-18, Home, W, 3, 2,Wolves,Brighton
+2024-09-22, Home, D, 2, 2,Nott'ham Forest,Brighton
+2024-09-28, Away, L, 2, 4,Chelsea,Brighton
+2024-10-06, Home, W, 3, 2,Tottenham,Brighton
+2024-10-19, Away, W, 1, 0,Newcastle Utd,Brighton
+2024-10-26, Home, D, 2, 2,Wolves,Brighton
+2024-10-30, Home, L, 2, 3,Liverpool,Brighton
+2024-11-02, Away, L, 1, 2,Liverpool,Brighton
+2024-11-09, Home, W, 2, 1,Manchester City,Brighton
+2024-11-23, Away, W, 2, 1,Bournemouth,Brighton
+2024-11-29, Home, D, 1, 1,Southampton,Brighton
+2024-12-05, Away, L, 1, 3,Fulham,Brighton
+2024-12-08, Away, D, 2, 2,Leicester City,Brighton
+2024-12-15, Home, L, 1, 3,Crystal Palace,Brighton
+2024-12-21, Away, D, 1, 1,West Ham,Brighton
+2024-12-27, Home, D, 0, 0,Brentford,Brighton
+2024-12-30, Away, D, 2, 2,Aston Villa,Brighton
+2025-01-04, Home, D, 1, 1,Arsenal,Brighton
+2025-01-11, Away, W, 4, 0,Norwich City,Brighton
+2025-01-16, Away, W, 2, 0,Ipswich Town,Brighton
+2025-01-19, Away, W, 3, 1,Manchester Utd,Brighton
+2025-01-25, Home, L, 0, 1,Everton,Brighton
+2025-02-01, Away, L, 0, 7,Nott'ham Forest,Brighton
+2025-02-08, Home, W, 2, 1,Chelsea,Brighton
+2025-02-14, Home, W, 3, 0,Chelsea,Brighton
+2025-02-22, Away, W, 4, 0,Southampton,Brighton
+2025-02-25, Home, W, 2, 1,Bournemouth,Brighton
+2025-03-02, Away, W, 2, 1,Newcastle Utd,Brighton
+2025-03-08, Home, W, 2, 1,Fulham,Brighton
+2025-03-15, Away, D, 2, 2,Manchester City,Brighton
+2025-04-02, Home, L, 0, 3,Aston Villa,Brighton
+2025-04-05, Away, L, 1, 2,Crystal Palace,Brighton
+2025-04-12, Home, D, 2, 2,Leicester City,Brighton
+2025-04-19, Away, L, 2, 4,Brentford,Brighton
+2025-04-26, Home, W, 3, 2,West Ham,Brighton
+2025-05-04, Home, D, 1, 1,Newcastle Utd,Brighton
+2025-05-10, Away, W, 2, 0,Wolves,Brighton
+2025-05-19, Home, W, 3, 2,Liverpool,Brighton
+2025-05-25, Away, W, 4, 1,Tottenham,Brighton
+2024-08-17, Away, D, 1, 1,Nott'ham Forest,Bournemouth
+2024-08-25, Home, D, 1, 1,Newcastle Utd,Bournemouth
+2024-08-28, Away, L, 0, 1,West Ham,Bournemouth
+2024-08-31, Away, W, 3, 2,Everton,Bournemouth
+2024-09-14, Home, L, 0, 1,Chelsea,Bournemouth
+2024-09-21, Away, L, 0, 3,Liverpool,Bournemouth
+2024-09-30, Home, W, 3, 1,Southampton,Bournemouth
+2024-10-05, Away, L, 0, 1,Leicester City,Bournemouth
+2024-10-19, Home, W, 2, 0,Arsenal,Bournemouth
+2024-10-26, Away, D, 1, 1,Aston Villa,Bournemouth
+2024-11-02, Home, W, 2, 1,Manchester City,Bournemouth
+2024-11-09, Away, L, 2, 3,Brentford,Bournemouth
+2024-11-23, Home, L, 1, 2,Brighton,Bournemouth
+2024-11-30, Away, W, 4, 2,Wolves,Bournemouth
+2024-12-05, Home, W, 1, 0,Tottenham,Bournemouth
+2024-12-08, Away, W, 2, 1,Ipswich Town,Bournemouth
+2024-12-16, Home, D, 1, 1,West Ham,Bournemouth
+2024-12-22, Away, W, 3, 0,Manchester Utd,Bournemouth
+2024-12-26, Home, D, 0, 0,Crystal Palace,Bournemouth
+2024-12-29, Away, D, 2, 2,Fulham,Bournemouth
+2025-01-04, Home, W, 1, 0,Everton,Bournemouth
+2025-01-11, Home, W, 5, 1,West Brom,Bournemouth
+2025-01-14, Away, D, 2, 2,Chelsea,Bournemouth
+2025-01-18, Away, W, 4, 1,Newcastle Utd,Bournemouth
+2025-01-25, Home, W, 5, 0,Nott'ham Forest,Bournemouth
+2025-02-01, Home, L, 0, 2,Liverpool,Bournemouth
+2025-02-08, Away, W, 2, 0,Everton,Bournemouth
+2025-02-15, Away, W, 3, 1,Southampton,Bournemouth
+2025-02-22, Home, L, 0, 1,Wolves,Bournemouth
+2025-02-25, Away, L, 1, 2,Brighton,Bournemouth
+2025-03-09, Away, D, 2, 2,Tottenham,Bournemouth
+2025-03-15, Home, L, 1, 2,Brentford,Bournemouth
+2025-03-30, Home, L, 1, 2,Manchester City,Bournemouth
+2025-04-02, Home, L, 1, 2,Ipswich Town,Bournemouth
+2025-04-05, Away, D, 2, 2,West Ham,Bournemouth
+2025-04-14, Home, W, 1, 0,Fulham,Bournemouth
+2025-04-19, Away, D, 0, 0,Crystal Palace,Bournemouth
+2025-04-27, Home, D, 1, 1,Manchester Utd,Bournemouth
+2025-05-03, Away, W, 2, 1,Arsenal,Bournemouth
+2025-05-10, Home, L, 0, 1,Aston Villa,Bournemouth
+2025-05-20, Away, L, 1, 3,Manchester City,Bournemouth
+2025-05-25, Home, W, 2, 0,Leicester City,Bournemouth
+2024-08-18, Home, W, 2, 1,Crystal Palace,Brentford
+2024-08-25, Away, L, 0, 2,Liverpool,Brentford
+2024-08-28, Away, W, 1, 0,Colchester Utd,Brentford
+2024-08-31, Home, W, 3, 1,Southampton,Brentford
+2024-09-14, Away, L, 1, 2,Manchester City,Brentford
+2024-09-17, Home, W, 3, 1,Leyton Orient,Brentford
+2024-09-21, Away, L, 1, 3,Tottenham,Brentford
+2024-09-28, Home, D, 1, 1,West Ham,Brentford
+2024-10-05, Home, W, 5, 3,Wolves,Brentford
+2024-10-19, Away, L, 1, 2,Manchester Utd,Brentford
+2024-10-26, Home, W, 4, 3,Ipswich Town,Brentford
+2024-11-04, Away, L, 1, 2,Fulham,Brentford
+2024-11-09, Home, W, 3, 2,Bournemouth,Brentford
+2024-11-23, Away, D, 0, 0,Everton,Brentford
+2024-11-30, Home, W, 4, 1,Leicester City,Brentford
+2024-12-04, Away, L, 1, 3,Aston Villa,Brentford
+2024-12-07, Home, W, 4, 2,Newcastle Utd,Brentford
+2024-12-15, Away, L, 1, 2,Chelsea,Brentford
+2024-12-18, Away, L, 1, 3,Newcastle Utd,Brentford
+2024-12-21, Home, L, 0, 2,Nott'ham Forest,Brentford
+2024-12-27, Away, D, 0, 0,Brighton,Brentford
+2025-01-01, Home, L, 1, 3,Arsenal,Brentford
+2025-01-04, Away, W, 5, 0,Southampton,Brentford
+2025-01-11, Home, L, 0, 1,Plymouth Argyle,Brentford
+2025-01-14, Home, D, 2, 2,Manchester City,Brentford
+2025-01-18, Home, L, 0, 2,Liverpool,Brentford
+2025-01-26, Away, W, 2, 1,Crystal Palace,Brentford
+2025-02-02, Home, L, 0, 2,Tottenham,Brentford
+2025-02-15, Away, W, 1, 0,West Ham,Brentford
+2025-02-21, Away, W, 4, 0,Leicester City,Brentford
+2025-02-26, Home, D, 1, 1,Everton,Brentford
+2025-03-08, Home, L, 0, 1,Aston Villa,Brentford
+2025-03-15, Away, W, 2, 1,Bournemouth,Brentford
+2025-04-02, Away, L, 1, 2,Newcastle Utd,Brentford
+2025-04-06, Home, D, 0, 0,Chelsea,Brentford
+2025-04-12, Away, D, 1, 1,Arsenal,Brentford
+2025-04-19, Home, W, 4, 2,Brighton,Brentford
+2025-05-01, Away, W, 2, 0,Nott'ham Forest,Brentford
+2025-05-04, Home, W, 4, 3,Manchester Utd,Brentford
+2025-05-10, Away, W, 1, 0,Ipswich Town,Brentford
+2025-05-18, Home, L, 2, 3,Fulham,Brentford
+2025-05-25, Away, D, 1, 1,Wolves,Brentford
+2024-08-16, Away, L, 0, 1,Manchester Utd,Fulham
+2024-08-24, Home, W, 2, 1,Leicester City,Fulham
+2024-08-27, Away, W, 2, 0,Birmingham City,Fulham
+2024-08-31, Away, D, 1, 1,Ipswich Town,Fulham
+2024-09-14, Home, D, 1, 1,West Ham,Fulham
+2024-09-21, Home, W, 3, 1,Newcastle Utd,Fulham
+2024-09-28, Away, W, 1, 0,Nott'ham Forest,Fulham
+2024-10-05, Away, L, 2, 3,Manchester City,Fulham
+2024-10-19, Home, L, 1, 3,Aston Villa,Fulham
+2024-10-26, Away, D, 1, 1,Everton,Fulham
+2024-11-04, Home, W, 2, 1,Brentford,Fulham
+2024-11-09, Away, W, 2, 0,Crystal Palace,Fulham
+2024-11-23, Home, L, 1, 4,Wolves,Fulham
+2024-12-01, Away, D, 1, 1,Tottenham,Fulham
+2024-12-05, Home, W, 3, 1,Brighton,Fulham
+2024-12-08, Home, D, 1, 1,Arsenal,Fulham
+2024-12-14, Away, D, 2, 2,Liverpool,Fulham
+2024-12-22, Home, D, 0, 0,Southampton,Fulham
+2024-12-26, Away, W, 2, 1,Chelsea,Fulham
+2024-12-29, Home, D, 2, 2,Bournemouth,Fulham
+2025-01-05, Home, D, 2, 2,Ipswich Town,Fulham
+2025-01-09, Home, W, 4, 1,Watford,Fulham
+2025-01-14, Away, L, 2, 3,West Ham,Fulham
+2025-01-18, Away, W, 2, 0,Leicester City,Fulham
+2025-01-26, Home, L, 0, 1,Manchester Utd,Fulham
+2025-02-01, Away, W, 2, 1,Newcastle Utd,Fulham
+2025-02-08, Away, W, 2, 1,Wigan Athletic,Fulham
+2025-02-15, Home, W, 2, 1,Nott'ham Forest,Fulham
+2025-02-22, Home, L, 0, 2,Crystal Palace,Fulham
+2025-02-25, Away, W, 2, 1,Wolves,Fulham
+2025-03-08, Away, L, 1, 2,Brighton,Fulham
+2025-03-16, Home, W, 2, 0,Tottenham,Fulham
+2025-03-29, Home, L, 0, 3,Crystal Palace,Fulham
+2025-04-01, Away, L, 1, 2,Arsenal,Fulham
+2025-04-06, Home, W, 3, 2,Liverpool,Fulham
+2025-04-14, Away, L, 0, 1,Bournemouth,Fulham
+2025-04-20, Home, L, 1, 2,Chelsea,Fulham
+2025-04-26, Away, W, 2, 1,Southampton,Fulham
+2025-05-03, Away, L, 0, 1,Aston Villa,Fulham
+2025-05-10, Home, L, 1, 3,Everton,Fulham
+2025-05-18, Away, W, 3, 2,Brentford,Fulham
+2025-05-25, Home, L, 0, 2,Manchester City,Fulham
+2024-08-18, Away, L, 1, 2,Brentford,Crystal Palace
+2024-08-24, Home, L, 0, 2,West Ham,Crystal Palace
+2024-08-27, Home, W, 4, 0,Norwich City,Crystal Palace
+2024-09-01, Away, D, 1, 1,Chelsea,Crystal Palace
+2024-09-14, Home, D, 2, 2,Leicester City,Crystal Palace
+2024-09-17, Away, W, 2, 1,QPR,Crystal Palace
+2024-09-21, Home, D, 0, 0,Manchester Utd,Crystal Palace
+2024-09-28, Away, L, 1, 2,Everton,Crystal Palace
+2024-10-05, Home, L, 0, 1,Liverpool,Crystal Palace
+2024-10-21, Away, L, 0, 1,Nott'ham Forest,Crystal Palace
+2024-10-27, Home, W, 1, 0,Tottenham,Crystal Palace
+2024-10-30, Away, W, 2, 1,Aston Villa,Crystal Palace
+2024-11-02, Away, D, 2, 2,Wolves,Crystal Palace
+2024-11-09, Home, L, 0, 2,Fulham,Crystal Palace
+2024-11-23, Away, D, 2, 2,Aston Villa,Crystal Palace
+2024-11-30, Home, D, 1, 1,Newcastle Utd,Crystal Palace
+2024-12-03, Away, W, 1, 0,Ipswich Town,Crystal Palace
+2024-12-07, Home, D, 2, 2,Manchester City,Crystal Palace
+2024-12-15, Away, W, 3, 1,Brighton,Crystal Palace
+2024-12-18, Away, L, 2, 3,Arsenal,Crystal Palace
+2024-12-21, Home, L, 1, 5,Arsenal,Crystal Palace
+2024-12-26, Away, D, 0, 0,Bournemouth,Crystal Palace
+2024-12-29, Home, W, 2, 1,Southampton,Crystal Palace
+2025-01-04, Home, D, 1, 1,Chelsea,Crystal Palace
+2025-01-12, Home, W, 1, 0,Stockport,Crystal Palace
+2025-01-15, Away, W, 2, 0,Leicester City,Crystal Palace
+2025-01-18, Away, W, 2, 0,West Ham,Crystal Palace
+2025-01-26, Home, L, 1, 2,Brentford,Crystal Palace
+2025-02-02, Away, W, 2, 0,Manchester Utd,Crystal Palace
+2025-02-10, Away, W, 2, 0,Doncaster,Crystal Palace
+2025-02-15, Home, L, 1, 2,Everton,Crystal Palace
+2025-02-22, Away, W, 2, 0,Fulham,Crystal Palace
+2025-02-25, Home, W, 4, 1,Aston Villa,Crystal Palace
+2025-03-01, Home, W, 3, 1,Millwall,Crystal Palace
+2025-03-08, Home, W, 1, 0,Ipswich Town,Crystal Palace
+2025-03-29, Away, W, 3, 0,Fulham,Crystal Palace
+2025-04-02, Away, D, 1, 1,Southampton,Crystal Palace
+2025-04-05, Home, W, 2, 1,Brighton,Crystal Palace
+2025-04-12, Away, L, 2, 5,Manchester City,Crystal Palace
+2025-04-16, Away, L, 0, 5,Newcastle Utd,Crystal Palace
+2025-04-19, Home, D, 0, 0,Bournemouth,Crystal Palace
+2025-04-23, Away, D, 2, 2,Arsenal,Crystal Palace
+2025-04-26, Home, W, 3, 0,Aston Villa,Crystal Palace
+2025-05-05, Home, D, 1, 1,Nott'ham Forest,Crystal Palace
+2025-05-11, Away, W, 2, 0,Tottenham,Crystal Palace
+2025-05-17, Neutral, W, 1, 0,Manchester City,Crystal Palace
+2025-05-20, Home, W, 4, 2,Wolves,Crystal Palace
+2025-05-25, Away, D, 1, 1,Liverpool,Crystal Palace
+2024-08-17, Home, L, 0, 3,Brighton,Everton
+2024-08-24, Away, L, 0, 4,Tottenham,Everton
+2024-08-27, Home, W, 3, 0,Doncaster,Everton
+2024-08-31, Home, L, 2, 3,Bournemouth,Everton
+2024-09-14, Away, L, 2, 3,Aston Villa,Everton
+2024-09-21, Away, D, 1, 1,Leicester City,Everton
+2024-09-28, Home, W, 2, 1,Crystal Palace,Everton
+2024-10-05, Home, D, 0, 0,Newcastle Utd,Everton
+2024-10-19, Away, W, 2, 0,Ipswich Town,Everton
+2024-10-26, Home, D, 1, 1,Fulham,Everton
+2024-11-02, Away, L, 0, 1,Southampton,Everton
+2024-11-09, Away, D, 0, 0,West Ham,Everton
+2024-11-23, Home, D, 0, 0,Brentford,Everton
+2024-12-01, Away, L, 0, 4,Manchester Utd,Everton
+2024-12-04, Home, W, 4, 0,Wolves,Everton
+2024-12-14, Away, D, 0, 0,Arsenal,Everton
+2024-12-22, Home, D, 0, 0,Chelsea,Everton
+2024-12-26, Away, D, 1, 1,Manchester City,Everton
+2024-12-29, Home, L, 0, 2,Nott'ham Forest,Everton
+2025-01-04, Away, L, 0, 1,Bournemouth,Everton
+2025-01-09, Home, W, 2, 0,P'borough Utd,Everton
+2025-01-15, Home, L, 0, 1,Aston Villa,Everton
+2025-01-19, Home, W, 3, 2,Tottenham,Everton
+2025-01-25, Away, W, 1, 0,Brighton,Everton
+2025-02-01, Home, W, 4, 0,Leicester City,Everton
+2025-02-08, Home, L, 0, 2,Bournemouth,Everton
+2025-02-12, Home, D, 2, 2,Liverpool,Everton
+2025-02-15, Away, W, 2, 1,Crystal Palace,Everton
+2025-02-22, Home, D, 2, 2,Manchester Utd,Everton
+2025-02-26, Away, D, 1, 1,Brentford,Everton
+2025-03-08, Away, D, 1, 1,Wolves,Everton
+2025-03-15, Home, D, 1, 1,West Ham,Everton
+2025-04-02, Away, L, 0, 1,Liverpool,Everton
+2025-04-05, Home, D, 1, 1,Arsenal,Everton
+2025-04-12, Away, W, 1, 0,Nott'ham Forest,Everton
+2025-04-19, Home, L, 0, 2,Manchester City,Everton
+2025-04-26, Away, L, 0, 1,Chelsea,Everton
+2025-05-03, Home, D, 2, 2,Ipswich Town,Everton
+2025-05-10, Away, W, 3, 1,Fulham,Everton
+2025-05-18, Home, W, 2, 0,Southampton,Everton
+2025-05-25, Away, W, 1, 0,Newcastle Utd,Everton
+2024-08-17, Home, L, 1, 2,Aston Villa,West Ham
+2024-08-24, Away, W, 2, 0,Crystal Palace,West Ham
+2024-08-28, Home, W, 1, 0,Bournemouth,West Ham
+2024-08-31, Home, L, 1, 3,Manchester City,West Ham
+2024-09-14, Away, D, 1, 1,Fulham,West Ham
+2024-09-21, Home, L, 0, 3,Chelsea,West Ham
+2024-09-25, Away, L, 1, 5,Liverpool,West Ham
+2024-09-28, Away, D, 1, 1,Brentford,West Ham
+2024-10-05, Home, W, 4, 1,Ipswich Town,West Ham
+2024-10-19, Away, L, 1, 4,Tottenham,West Ham
+2024-10-27, Home, W, 2, 1,Manchester Utd,West Ham
+2024-11-02, Away, L, 0, 3,Nott'ham Forest,West Ham
+2024-11-09, Home, D, 0, 0,Everton,West Ham
+2024-11-25, Away, W, 2, 0,Newcastle Utd,West Ham
+2024-11-30, Home, L, 2, 5,Arsenal,West Ham
+2024-12-03, Away, L, 1, 3,Leicester City,West Ham
+2024-12-09, Home, W, 2, 1,Wolves,West Ham
+2024-12-16, Away, D, 1, 1,Bournemouth,West Ham
+2024-12-21, Home, D, 1, 1,Brighton,West Ham
+2024-12-26, Away, W, 1, 0,Southampton,West Ham
+2024-12-29, Home, L, 0, 5,Liverpool,West Ham
+2025-01-04, Away, L, 1, 4,Manchester City,West Ham
+2025-01-10, Away, L, 1, 2,Aston Villa,West Ham
+2025-01-14, Home, W, 3, 2,Fulham,West Ham
+2025-01-18, Home, L, 0, 2,Crystal Palace,West Ham
+2025-01-26, Away, D, 1, 1,Aston Villa,West Ham
+2025-02-03, Away, L, 1, 2,Chelsea,West Ham
+2025-02-15, Home, L, 0, 1,Brentford,West Ham
+2025-02-22, Away, W, 1, 0,Arsenal,West Ham
+2025-02-27, Home, W, 2, 0,Leicester City,West Ham
+2025-03-10, Home, L, 0, 1,Newcastle Utd,West Ham
+2025-03-15, Away, D, 1, 1,Everton,West Ham
+2025-04-01, Away, L, 0, 1,Wolves,West Ham
+2025-04-05, Home, D, 2, 2,Bournemouth,West Ham
+2025-04-13, Away, L, 1, 2,Liverpool,West Ham
+2025-04-19, Home, D, 1, 1,Southampton,West Ham
+2025-04-26, Away, L, 2, 3,Brighton,West Ham
+2025-05-04, Home, D, 1, 1,Tottenham,West Ham
+2025-05-11, Away, W, 2, 0,Manchester Utd,West Ham
+2025-05-18, Home, L, 1, 2,Nott'ham Forest,West Ham
+2025-05-25, Away, W, 3, 1,Ipswich Town,West Ham
+2024-08-16, Home, W, 1, 0,Fulham,Manchester Utd
+2024-08-24, Away, L, 1, 2,Brighton,Manchester Utd
+2024-09-01, Home, L, 0, 3,Liverpool,Manchester Utd
+2024-09-14, Away, W, 3, 0,Southampton,Manchester Utd
+2024-09-17, Home, W, 7, 0,Barnsley,Manchester Utd
+2024-09-21, Away, D, 0, 0,Crystal Palace,Manchester Utd
+2024-09-25, Home, D, 1, 1,Twente,Manchester Utd
+2024-09-29, Home, L, 0, 3,Tottenham,Manchester Utd
+2024-10-03, Away, D, 3, 3,Porto,Manchester Utd
+2024-10-06, Away, D, 0, 0,Aston Villa,Manchester Utd
+2024-10-19, Home, W, 2, 1,Brentford,Manchester Utd
+2024-10-24, Away, D, 1, 1,Fenerbahçe,Manchester Utd
+2024-10-27, Away, L, 1, 2,West Ham,Manchester Utd
+2024-10-30, Home, W, 5, 2,Leicester City,Manchester Utd
+2024-11-03, Home, D, 1, 1,Chelsea,Manchester Utd
+2024-11-07, Home, W, 2, 0,PAOK,Manchester Utd
+2024-11-10, Home, W, 3, 0,Leicester City,Manchester Utd
+2024-11-24, Away, D, 1, 1,Ipswich Town,Manchester Utd
+2024-11-28, Home, W, 3, 2,Bodø/Glimt,Manchester Utd
+2024-12-01, Home, W, 4, 0,Everton,Manchester Utd
+2024-12-04, Away, L, 0, 2,Arsenal,Manchester Utd
+2024-12-07, Home, L, 2, 3,Nott'ham Forest,Manchester Utd
+2024-12-12, Away, W, 2, 1,Viktoria Plzeň,Manchester Utd
+2024-12-15, Away, W, 2, 1,Manchester City,Manchester Utd
+2024-12-19, Away, L, 3, 4,Tottenham,Manchester Utd
+2024-12-22, Home, L, 0, 3,Bournemouth,Manchester Utd
+2024-12-26, Away, L, 0, 2,Wolves,Manchester Utd
+2024-12-30, Home, L, 0, 2,Newcastle Utd,Manchester Utd
+2025-01-05, Away, D, 2, 2,Liverpool,Manchester Utd
+2025-01-16, Home, W, 3, 1,Southampton,Manchester Utd
+2025-01-19, Home, L, 1, 3,Brighton,Manchester Utd
+2025-01-23, Home, W, 2, 1,Rangers,Manchester Utd
+2025-01-26, Away, W, 1, 0,Fulham,Manchester Utd
+2025-01-30, Away, W, 2, 0,FCSB,Manchester Utd
+2025-02-02, Home, L, 0, 2,Crystal Palace,Manchester Utd
+2025-02-07, Home, W, 2, 1,Leicester City,Manchester Utd
+2025-02-16, Away, L, 0, 1,Tottenham,Manchester Utd
+2025-02-22, Away, D, 2, 2,Everton,Manchester Utd
+2025-02-26, Home, W, 3, 2,Ipswich Town,Manchester Utd
+2025-03-06, Away, D, 1, 1,Real Sociedad,Manchester Utd
+2025-03-09, Home, D, 1, 1,Arsenal,Manchester Utd
+2025-03-13, Home, W, 4, 1,Real Sociedad,Manchester Utd
+2025-03-16, Away, W, 3, 0,Leicester City,Manchester Utd
+2025-04-01, Away, L, 0, 1,Nott'ham Forest,Manchester Utd
+2025-04-06, Home, D, 0, 0,Manchester City,Manchester Utd
+2025-04-10, Away, D, 2, 2,Lyon,Manchester Utd
+2025-04-13, Away, L, 1, 4,Newcastle Utd,Manchester Utd
+2025-04-17, Home, W, 5, 4,Lyon,Manchester Utd
+2025-04-20, Home, L, 0, 1,Wolves,Manchester Utd
+2025-04-27, Away, D, 1, 1,Bournemouth,Manchester Utd
+2025-05-01, Away, W, 3, 0,Athletic Club,Manchester Utd
+2025-05-04, Away, L, 3, 4,Brentford,Manchester Utd
+2025-05-08, Home, W, 4, 1,Athletic Club,Manchester Utd
+2025-05-11, Home, L, 0, 2,West Ham,Manchester Utd
+2025-05-16, Away, L, 0, 1,Chelsea,Manchester Utd
+2025-05-21, Neutral, L, 0, 1,Tottenham,Manchester Utd
+2025-05-25, Home, W, 2, 0,Aston Villa,Manchester Utd
+2024-08-17, Away, L, 0, 2,Arsenal,Wolves
+2024-08-25, Home, L, 2, 6,Chelsea,Wolves
+2024-08-28, Home, W, 2, 0,Burnley,Wolves
+2024-08-31, Away, D, 1, 1,Nott'ham Forest,Wolves
+2024-09-15, Home, L, 1, 2,Newcastle Utd,Wolves
+2024-09-18, Away, L, 2, 3,Brighton,Wolves
+2024-09-21, Away, L, 1, 3,Aston Villa,Wolves
+2024-09-28, Home, L, 1, 2,Liverpool,Wolves
+2024-10-05, Away, L, 3, 5,Brentford,Wolves
+2024-10-20, Home, L, 1, 2,Manchester City,Wolves
+2024-10-26, Away, D, 2, 2,Brighton,Wolves
+2024-11-02, Home, D, 2, 2,Crystal Palace,Wolves
+2024-11-09, Home, W, 2, 0,Southampton,Wolves
+2024-11-23, Away, W, 4, 1,Fulham,Wolves
+2024-11-30, Home, L, 2, 4,Bournemouth,Wolves
+2024-12-04, Away, L, 0, 4,Everton,Wolves
+2024-12-09, Away, L, 1, 2,West Ham,Wolves
+2024-12-14, Home, L, 1, 2,Ipswich Town,Wolves
+2024-12-22, Away, W, 3, 0,Leicester City,Wolves
+2024-12-26, Home, W, 2, 0,Manchester Utd,Wolves
+2024-12-29, Away, D, 2, 2,Tottenham,Wolves
+2025-01-06, Home, L, 0, 3,Nott'ham Forest,Wolves
+2025-01-11, Away, W, 2, 1,Bristol City,Wolves
+2025-01-15, Away, L, 0, 3,Newcastle Utd,Wolves
+2025-01-20, Away, L, 1, 3,Chelsea,Wolves
+2025-01-25, Home, L, 0, 1,Arsenal,Wolves
+2025-02-01, Home, W, 2, 0,Aston Villa,Wolves
+2025-02-09, Away, W, 2, 0,Blackburn,Wolves
+2025-02-16, Away, L, 1, 2,Liverpool,Wolves
+2025-02-22, Away, W, 1, 0,Bournemouth,Wolves
+2025-02-25, Home, L, 1, 2,Fulham,Wolves
+2025-03-08, Home, D, 1, 1,Everton,Wolves
+2025-03-15, Away, W, 2, 1,Southampton,Wolves
+2025-04-01, Home, W, 1, 0,West Ham,Wolves
+2025-04-05, Away, W, 2, 1,Ipswich Town,Wolves
+2025-04-13, Home, W, 4, 2,Tottenham,Wolves
+2025-04-20, Away, W, 1, 0,Manchester Utd,Wolves
+2025-04-26, Home, W, 3, 0,Leicester City,Wolves
+2025-05-02, Away, L, 0, 1,Manchester City,Wolves
+2025-05-10, Home, L, 0, 2,Brighton,Wolves
+2025-05-20, Away, L, 2, 4,Crystal Palace,Wolves
+2025-05-25, Home, D, 1, 1,Brentford,Wolves
+2024-08-19, Away, D, 1, 1,Leicester City,Tottenham
+2024-08-24, Home, W, 4, 0,Everton,Tottenham
+2024-09-01, Away, L, 1, 2,Newcastle Utd,Tottenham
+2024-09-15, Home, L, 0, 1,Arsenal,Tottenham
+2024-09-18, Away, W, 2, 1,Coventry City,Tottenham
+2024-09-21, Home, W, 3, 1,Brentford,Tottenham
+2024-09-26, Home, W, 3, 0,Qarabağ,Tottenham
+2024-09-29, Away, W, 3, 0,Manchester Utd,Tottenham
+2024-10-03, Away, W, 2, 1,Ferencváros,Tottenham
+2024-10-06, Away, L, 2, 3,Brighton,Tottenham
+2024-10-19, Home, W, 4, 1,West Ham,Tottenham
+2024-10-24, Home, W, 1, 0,AZ Alkmaar,Tottenham
+2024-10-27, Away, L, 0, 1,Crystal Palace,Tottenham
+2024-10-30, Home, W, 2, 1,Manchester City,Tottenham
+2024-11-03, Home, W, 4, 1,Aston Villa,Tottenham
+2024-11-07, Away, L, 2, 3,Galatasaray,Tottenham
+2024-11-10, Home, L, 1, 2,Ipswich Town,Tottenham
+2024-11-23, Away, W, 4, 0,Manchester City,Tottenham
+2024-11-28, Home, D, 2, 2,Roma,Tottenham
+2024-12-01, Home, D, 1, 1,Fulham,Tottenham
+2024-12-05, Away, L, 0, 1,Bournemouth,Tottenham
+2024-12-08, Home, L, 3, 4,Chelsea,Tottenham
+2024-12-12, Away, D, 1, 1,Rangers,Tottenham
+2024-12-15, Away, W, 5, 0,Southampton,Tottenham
+2024-12-19, Home, W, 4, 3,Manchester Utd,Tottenham
+2024-12-22, Home, L, 3, 6,Liverpool,Tottenham
+2024-12-26, Away, L, 0, 1,Nott'ham Forest,Tottenham
+2024-12-29, Home, D, 2, 2,Wolves,Tottenham
+2025-01-04, Home, L, 1, 2,Newcastle Utd,Tottenham
+2025-01-08, Home, W, 1, 0,Liverpool,Tottenham
+2025-01-12, Away, W, 3, 0,Tamworth,Tottenham
+2025-01-15, Away, L, 1, 2,Arsenal,Tottenham
+2025-01-19, Away, L, 2, 3,Everton,Tottenham
+2025-01-23, Away, W, 3, 2,Hoffenheim,Tottenham
+2025-01-26, Home, L, 1, 2,Leicester City,Tottenham
+2025-01-30, Home, W, 3, 0,Elfsborg,Tottenham
+2025-02-02, Away, W, 2, 0,Brentford,Tottenham
+2025-02-06, Away, L, 0, 4,Liverpool,Tottenham
+2025-02-09, Away, L, 1, 2,Aston Villa,Tottenham
+2025-02-16, Home, W, 1, 0,Manchester Utd,Tottenham
+2025-02-22, Away, W, 4, 1,Ipswich Town,Tottenham
+2025-02-26, Home, L, 0, 1,Manchester City,Tottenham
+2025-03-06, Away, L, 0, 1,AZ Alkmaar,Tottenham
+2025-03-09, Home, D, 2, 2,Bournemouth,Tottenham
+2025-03-13, Home, W, 3, 1,AZ Alkmaar,Tottenham
+2025-03-16, Away, L, 0, 2,Fulham,Tottenham
+2025-04-03, Away, L, 0, 1,Chelsea,Tottenham
+2025-04-06, Home, W, 3, 1,Southampton,Tottenham
+2025-04-10, Home, D, 1, 1,Eint Frankfurt,Tottenham
+2025-04-13, Away, L, 2, 4,Wolves,Tottenham
+2025-04-17, Away, W, 1, 0,Eint Frankfurt,Tottenham
+2025-04-21, Home, L, 1, 2,Nott'ham Forest,Tottenham
+2025-04-27, Away, L, 1, 5,Liverpool,Tottenham
+2025-05-01, Home, W, 3, 1,Bodø/Glimt,Tottenham
+2025-05-04, Away, D, 1, 1,West Ham,Tottenham
+2025-05-08, Away, W, 2, 0,Bodø/Glimt,Tottenham
+2025-05-11, Home, L, 0, 2,Crystal Palace,Tottenham
+2025-05-16, Away, L, 0, 2,Aston Villa,Tottenham
+2025-05-21, Neutral, W, 1, 0,Manchester Utd,Tottenham
+2025-05-25, Home, L, 1, 4,Brighton,Tottenham
+2024-08-19, Home, D, 1, 1,Tottenham,Leicester City
+2024-08-24, Away, L, 1, 2,Fulham,Leicester City
+2024-08-27, Home, W, 4, 0,Tranmere Rovers,Leicester City
+2024-08-31, Home, L, 1, 2,Aston Villa,Leicester City
+2024-09-14, Away, D, 2, 2,Crystal Palace,Leicester City
+2024-09-21, Home, D, 1, 1,Everton,Leicester City
+2024-09-28, Away, L, 2, 4,Arsenal,Leicester City
+2024-10-05, Home, W, 1, 0,Bournemouth,Leicester City
+2024-10-19, Away, W, 3, 2,Southampton,Leicester City
+2024-10-25, Home, L, 1, 3,Nott'ham Forest,Leicester City
+2024-10-30, Away, L, 2, 5,Manchester Utd,Leicester City
+2024-11-02, Away, D, 1, 1,Ipswich Town,Leicester City
+2024-11-10, Away, L, 0, 3,Manchester Utd,Leicester City
+2024-11-23, Home, L, 1, 2,Chelsea,Leicester City
+2024-11-30, Away, L, 1, 4,Brentford,Leicester City
+2024-12-03, Home, W, 3, 1,West Ham,Leicester City
+2024-12-08, Home, D, 2, 2,Brighton,Leicester City
+2024-12-14, Away, L, 0, 4,Newcastle Utd,Leicester City
+2024-12-22, Home, L, 0, 3,Wolves,Leicester City
+2024-12-26, Away, L, 1, 3,Liverpool,Leicester City
+2024-12-29, Home, L, 0, 2,Manchester City,Leicester City
+2025-01-04, Away, L, 1, 2,Aston Villa,Leicester City
+2025-01-11, Home, W, 6, 2,QPR,Leicester City
+2025-01-15, Home, L, 0, 2,Crystal Palace,Leicester City
+2025-01-18, Home, L, 0, 2,Fulham,Leicester City
+2025-01-26, Away, W, 2, 1,Tottenham,Leicester City
+2025-02-01, Away, L, 0, 4,Everton,Leicester City
+2025-02-07, Away, L, 1, 2,Manchester Utd,Leicester City
+2025-02-15, Home, L, 0, 2,Arsenal,Leicester City
+2025-02-21, Home, L, 0, 4,Brentford,Leicester City
+2025-02-27, Away, L, 0, 2,West Ham,Leicester City
+2025-03-09, Away, L, 0, 1,Chelsea,Leicester City
+2025-03-16, Home, L, 0, 3,Manchester Utd,Leicester City
+2025-04-02, Away, L, 0, 2,Manchester City,Leicester City
+2025-04-07, Home, L, 0, 3,Newcastle Utd,Leicester City
+2025-04-12, Away, D, 2, 2,Brighton,Leicester City
+2025-04-20, Home, L, 0, 1,Liverpool,Leicester City
+2025-04-26, Away, L, 0, 3,Wolves,Leicester City
+2025-05-03, Home, W, 2, 0,Southampton,Leicester City
+2025-05-11, Away, D, 2, 2,Nott'ham Forest,Leicester City
+2025-05-18, Home, W, 2, 0,Ipswich Town,Leicester City
+2025-05-25, Away, L, 0, 2,Bournemouth,Leicester City
+2024-08-17, Home, L, 0, 2,Liverpool,Ipswich Town
+2024-08-24, Away, L, 1, 4,Manchester City,Ipswich Town
+2024-08-31, Home, D, 1, 1,Fulham,Ipswich Town
+2024-09-14, Away, D, 0, 0,Brighton,Ipswich Town
+2024-09-21, Away, D, 1, 1,Southampton,Ipswich Town
+2024-09-29, Home, D, 2, 2,Aston Villa,Ipswich Town
+2024-10-05, Away, L, 1, 4,West Ham,Ipswich Town
+2024-10-19, Home, L, 0, 2,Everton,Ipswich Town
+2024-10-26, Away, L, 3, 4,Brentford,Ipswich Town
+2024-11-02, Home, D, 1, 1,Leicester City,Ipswich Town
+2024-11-10, Away, W, 2, 1,Tottenham,Ipswich Town
+2024-11-24, Home, D, 1, 1,Manchester Utd,Ipswich Town
+2024-11-30, Away, L, 0, 1,Nott'ham Forest,Ipswich Town
+2024-12-03, Home, L, 0, 1,Crystal Palace,Ipswich Town
+2024-12-08, Home, L, 1, 2,Bournemouth,Ipswich Town
+2024-12-14, Away, W, 2, 1,Wolves,Ipswich Town
+2024-12-21, Home, L, 0, 4,Newcastle Utd,Ipswich Town
+2024-12-27, Away, L, 0, 1,Arsenal,Ipswich Town
+2024-12-30, Home, W, 2, 0,Chelsea,Ipswich Town
+2025-01-05, Away, D, 2, 2,Fulham,Ipswich Town
+2025-01-12, Home, W, 3, 0,Bristol Rovers,Ipswich Town
+2025-01-16, Home, L, 0, 2,Brighton,Ipswich Town
+2025-01-19, Home, L, 0, 6,Manchester City,Ipswich Town
+2025-01-25, Away, L, 1, 4,Liverpool,Ipswich Town
+2025-02-01, Home, L, 1, 2,Southampton,Ipswich Town
+2025-02-08, Away, W, 4, 1,Coventry City,Ipswich Town
+2025-02-15, Away, D, 1, 1,Aston Villa,Ipswich Town
+2025-02-22, Home, L, 1, 4,Tottenham,Ipswich Town
+2025-02-26, Away, L, 2, 3,Manchester Utd,Ipswich Town
+2025-03-08, Away, L, 0, 1,Crystal Palace,Ipswich Town
+2025-03-15, Home, L, 2, 4,Nott'ham Forest,Ipswich Town
+2025-04-02, Away, W, 2, 1,Bournemouth,Ipswich Town
+2025-04-05, Home, L, 1, 2,Wolves,Ipswich Town
+2025-04-13, Away, D, 2, 2,Chelsea,Ipswich Town
+2025-04-20, Home, L, 0, 4,Arsenal,Ipswich Town
+2025-04-26, Away, L, 0, 3,Newcastle Utd,Ipswich Town
+2025-05-03, Away, D, 2, 2,Everton,Ipswich Town
+2025-05-10, Home, L, 0, 1,Brentford,Ipswich Town
+2025-05-18, Away, L, 0, 2,Leicester City,Ipswich Town
+2025-05-25, Home, L, 1, 3,West Ham,Ipswich Town
+2024-08-17, Away, L, 0, 1,Newcastle Utd,Southampton
+2024-08-24, Home, L, 0, 1,Nott'ham Forest,Southampton
+2024-08-28, Away, W, 5, 3,Cardiff City,Southampton
+2024-08-31, Away, L, 1, 3,Brentford,Southampton
+2024-09-14, Home, L, 0, 3,Manchester Utd,Southampton
+2024-09-21, Home, D, 1, 1,Ipswich Town,Southampton
+2024-09-30, Away, L, 1, 3,Bournemouth,Southampton
+2024-10-05, Away, L, 1, 3,Arsenal,Southampton
+2024-10-19, Home, L, 2, 3,Leicester City,Southampton
+2024-10-26, Away, L, 0, 1,Manchester City,Southampton
+2024-10-29, Home, W, 3, 2,Stoke City,Southampton
+2024-11-02, Home, W, 1, 0,Everton,Southampton
+2024-11-09, Away, L, 0, 2,Wolves,Southampton
+2024-11-24, Home, L, 2, 3,Liverpool,Southampton
+2024-11-29, Away, D, 1, 1,Brighton,Southampton
+2024-12-04, Home, L, 1, 5,Chelsea,Southampton
+2024-12-07, Away, L, 0, 1,Aston Villa,Southampton
+2024-12-15, Home, L, 0, 5,Tottenham,Southampton
+2024-12-18, Home, L, 1, 2,Liverpool,Southampton
+2024-12-22, Away, D, 0, 0,Fulham,Southampton
+2024-12-26, Home, L, 0, 1,West Ham,Southampton
+2024-12-29, Away, L, 1, 2,Crystal Palace,Southampton
+2025-01-04, Home, L, 0, 5,Brentford,Southampton
+2025-01-12, Home, W, 3, 0,Swansea City,Southampton
+2025-01-16, Away, L, 1, 3,Manchester Utd,Southampton
+2025-01-19, Away, L, 2, 3,Nott'ham Forest,Southampton
+2025-01-25, Home, L, 1, 3,Newcastle Utd,Southampton
+2025-02-01, Away, W, 2, 1,Ipswich Town,Southampton
+2025-02-08, Home, L, 0, 1,Burnley,Southampton
+2025-02-15, Home, L, 1, 3,Bournemouth,Southampton
+2025-02-22, Home, L, 0, 4,Brighton,Southampton
+2025-02-25, Away, L, 0, 4,Chelsea,Southampton
+2025-03-08, Away, L, 1, 3,Liverpool,Southampton
+2025-03-15, Home, L, 1, 2,Wolves,Southampton
+2025-04-02, Home, D, 1, 1,Crystal Palace,Southampton
+2025-04-06, Away, L, 1, 3,Tottenham,Southampton
+2025-04-12, Home, L, 0, 3,Aston Villa,Southampton
+2025-04-19, Away, D, 1, 1,West Ham,Southampton
+2025-04-26, Home, L, 1, 2,Fulham,Southampton
+2025-05-03, Away, L, 0, 2,Leicester City,Southampton
+2025-05-10, Home, D, 0, 0,Manchester City,Southampton
+2025-05-18, Away, L, 0, 2,Everton,Southampton
+2025-05-25, Home, L, 1, 2,Arsenal,Southampton

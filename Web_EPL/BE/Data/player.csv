@@ -1,0 +1,575 @@
+Player_name,Player_url,Nation,Pos,Age,MP,Starts,Min,Team
+Mohamed Salah,https://fbref.com/en/players/e342ad68/Mohamed-Salah,EGY,FW,32,38,38,3371,Liverpool
+Virgil van Dijk,https://fbref.com/en/players/e06683ca/Virgil-van-Dijk,NED,DF,33,37,37,3330,Liverpool
+Ryan Gravenberch,https://fbref.com/en/players/b8e740fb/Ryan-Gravenberch,NED,MF,22,37,37,3160,Liverpool
+Alexis Mac Allister,https://fbref.com/en/players/83d074ff/Alexis-Mac-Allister,ARG,MF,25,35,30,2599,Liverpool
+Ibrahima Konaté,https://fbref.com/en/players/5ed9b537/Ibrahima-Konate,FRA,DF,25,31,30,2560,Liverpool
+Dominik Szoboszlai,https://fbref.com/en/players/934e1968/Dominik-Szoboszlai,HUN,MF,23,36,29,2491,Liverpool
+Andrew Robertson,https://fbref.com/en/players/2e4f5f03/Andrew-Robertson,SCO,DF,30,33,29,2482,Liverpool
+Alisson,https://fbref.com/en/players/7a2e46a8/Alisson,BRA,GK,31,28,28,2508,Liverpool
+Luis Díaz,https://fbref.com/en/players/4a1a9578/Luis-Diaz,COL,FW,27,36,28,2399,Liverpool
+Trent Alexander-Arnold,https://fbref.com/en/players/cd1acf9d/Trent-Alexander-Arnold,ENG,DF,25,33,28,2365,Liverpool
+Cody Gakpo,https://fbref.com/en/players/1971591f/Cody-Gakpo,NED,FW,25,35,23,1935,Liverpool
+Curtis Jones,https://fbref.com/en/players/4fb9c88f/Curtis-Jones,ENG,"MF,DF",23,33,19,1712,Liverpool
+Diogo Jota,https://fbref.com/en/players/178ae8f8/Diogo-Jota,POR,FW,27,26,14,1196,Liverpool
+Caoimhín Kelleher,https://fbref.com/en/players/62d7ef38/Caoimhin-Kelleher,IRL,GK,25,10,10,900,Liverpool
+Kostas Tsimikas,https://fbref.com/en/players/f315ca93/Kostas-Tsimikas,GRE,DF,28,18,9,837,Liverpool
+Darwin Núñez,https://fbref.com/en/players/4d77b365/Darwin-Nunez,URU,FW,25,30,8,1133,Liverpool
+Conor Bradley,https://fbref.com/en/players/bbd67769/Conor-Bradley,NIR,DF,21,19,7,754,Liverpool
+Joe Gomez,https://fbref.com/en/players/7a11550b/Joe-Gomez,ENG,DF,27,9,6,519,Liverpool
+Jarell Quansah,https://fbref.com/en/players/4125cb98/Jarell-Quansah,ENG,DF,21,13,4,495,Liverpool
+Harvey Elliott,https://fbref.com/en/players/b9e1436c/Harvey-Elliott,ENG,MF,21,18,2,371,Liverpool
+Wataru Endo,https://fbref.com/en/players/c149016b/Wataru-Endo,JPN,"MF,DF",31,20,1,273,Liverpool
+Federico Chiesa,https://fbref.com/en/players/b0f7e36c/Federico-Chiesa,ITA,FW,26,6,1,108,Liverpool
+Vitezslav Jaros,https://fbref.com/en/players/12bb4d6a/Vitezslav-Jaros,CZE,GK,23,1,0,12,Liverpool
+Jayden Danns,https://fbref.com/en/players/003cf4d1/Jayden-Danns,ENG,MF,18,1,0,11,Liverpool
+David Raya,https://fbref.com/en/players/98ea5115/David-Raya,ESP,GK, 28,38,38,3420,Arsenal
+William Saliba,https://fbref.com/en/players/972aeb2a/William-Saliba,FRA,DF, 23,35,35,3039,Arsenal
+Declan Rice,https://fbref.com/en/players/1c7012b8/Declan-Rice,ENG,MF, 25,35,33,2825,Arsenal
+Thomas Partey,https://fbref.com/en/players/529f49ab/Thomas-Partey,GHA,"MF,DF", 31,35,31,2797,Arsenal
+Leandro Trossard,https://fbref.com/en/players/38ceb24a/Leandro-Trossard,BEL,FW, 29,38,28,2546,Arsenal
+Gabriel Magalhães,https://fbref.com/en/players/67ac5bb8/Gabriel-Magalhaes,BRA,DF, 26,28,28,2363,Arsenal
+Jurriën Timber,https://fbref.com/en/players/41034650/Jurrien-Timber,NED,DF, 23,30,27,2417,Arsenal
+Martin Ødegaard,https://fbref.com/en/players/79300479/Martin-Odegaard,NOR,MF, 25,30,26,2325,Arsenal
+Gabriel Martinelli,https://fbref.com/en/players/48a5a5d6/Gabriel-Martinelli,BRA,"FW,MF", 23,33,25,2290,Arsenal
+Kai Havertz,https://fbref.com/en/players/fed7cb61/Kai-Havertz,GER,"FW,MF", 25,23,21,1875,Arsenal
+Bukayo Saka,https://fbref.com/en/players/bc7dc64d/Bukayo-Saka,ENG,"FW,MF", 22,25,20,1729,Arsenal
+Mikel Merino,https://fbref.com/en/players/d080ed5e/Mikel-Merino,ESP,"MF,FW", 28,28,17,1586,Arsenal
+Myles Lewis-Skelly,https://fbref.com/en/players/5dff6c28/Myles-Lewis-Skelly,ENG,DF, 17,23,15,1369,Arsenal
+Ben White,https://fbref.com/en/players/35e413f1/Ben-White,ENG,DF, 26,17,13,1198,Arsenal
+Riccardo Calafiori,https://fbref.com/en/players/aded8e6f/Riccardo-Calafiori,ITA,DF, 22,19,11,983,Arsenal
+Ethan Nwaneri,https://fbref.com/en/players/7f94982c/Ethan-Nwaneri,ENG,"FW,MF", 17,26,11,895,Arsenal
+Jakub Kiwior,https://fbref.com/en/players/dc3e663e/Jakub-Kiwior,POL,DF, 24,17,10,1122,Arsenal
+Jorginho,https://fbref.com/en/players/45db685d/Jorginho,ITA,MF, 32,15,9,704,Arsenal
+Raheem Sterling,https://fbref.com/en/players/b400bde0/Raheem-Sterling,ENG,"FW,MF", 29,17,7,499,Arsenal
+Gabriel Jesus,https://fbref.com/en/players/b66315ae/Gabriel-Jesus,BRA,FW, 27,17,6,608,Arsenal
+Oleksandr Zinchenko,https://fbref.com/en/players/51cf8561/Oleksandr-Zinchenko,UKR,"DF,MF", 27,15,5,527,Arsenal
+Kieran Tierney,https://fbref.com/en/players/fce2302c/Kieran-Tierney,SCO,"DF,FW", 27,13,2,259,Arsenal
+Nathan Butler-Oyedeji,https://fbref.com/en/players/3a686640/Nathan-Butler-Oyedeji,ENG,FW, 21,1,0,7,Arsenal
+Takehiro Tomiyasu,https://fbref.com/en/players/b3af9be1/Takehiro-Tomiyasu,JPN,DF, 25,1,0,7,Arsenal
+Reiss Nelson,https://fbref.com/en/players/c5bdb6e3/Reiss-Nelson,ENG,FW, 24,1,0,3,Arsenal
+Joško Gvardiol,https://fbref.com/en/players/5ad50391/Josko-Gvardiol,CRO,DF, 22,37,36,3277,Manchester City
+Erling Haaland,https://fbref.com/en/players/1f44ac21/Erling-Haaland,NOR,FW, 24,31,31,2736,Manchester City
+Bernardo Silva,https://fbref.com/en/players/3eb22ec9/Bernardo-Silva,POR,"MF,FW", 29,33,29,2670,Manchester City
+Ederson,https://fbref.com/en/players/3bb7b8b4/Ederson,BRA,GK, 30,26,26,2320,Manchester City
+Rúben Dias,https://fbref.com/en/players/31c69ef1/Ruben-Dias,POR,DF, 27,27,25,2271,Manchester City
+İlkay Gündoğan,https://fbref.com/en/players/819b3158/Ilkay-Gundogan,GER,MF, 33,33,25,2223,Manchester City
+Mateo Kovačić,https://fbref.com/en/players/79c0821a/Mateo-Kovacic,CRO,MF, 30,31,25,2198,Manchester City
+Manuel Akanji,https://fbref.com/en/players/89ac64a6/Manuel-Akanji,SUI,DF, 29,26,23,2014,Manchester City
+Rico Lewis,https://fbref.com/en/players/b57e066e/Rico-Lewis,ENG,"DF,MF", 19,28,21,1893,Manchester City
+Sávio,https://fbref.com/en/players/fe6e7156/Savio,BRA,"FW,MF", 20,29,21,1766,Manchester City
+Phil Foden,https://fbref.com/en/players/ed1e53f3/Phil-Foden,ENG,"MF,FW", 24,28,20,1777,Manchester City
+Kevin De Bruyne,https://fbref.com/en/players/e46012d4/Kevin-De-Bruyne,BEL,"MF,FW", 33,28,19,1702,Manchester City
+Matheus Nunes,https://fbref.com/en/players/e6af02e0/Matheus-Nunes,POR,"DF,MF", 25,26,19,1674,Manchester City
+Jeremy Doku,https://fbref.com/en/players/fffea3e5/Jeremy-Doku,BEL,"FW,MF", 22,29,16,1516,Manchester City
+Omar Marmoush,https://fbref.com/en/players/0e0102eb/Omar-Marmoush,EGY,"FW,MF", 25,16,14,1175,Manchester City
+Stefan Ortega,https://fbref.com/en/players/c1242d4e/Stefan-Ortega,GER,GK, 31,13,12,1100,Manchester City
+Kyle Walker,https://fbref.com/en/players/86dd77d1/Kyle-Walker,ENG,DF, 34,15,9,970,Manchester City
+Nicolás González,https://fbref.com/en/players/2c56a792/Nicolas-Gonzalez,ESP,MF, 22,11,9,760,Manchester City
+Nathan Aké,https://fbref.com/en/players/eaeca114/Nathan-Ake,NED,DF, 29,10,8,678,Manchester City
+Jack Grealish,https://fbref.com/en/players/b0b4fd3e/Jack-Grealish,ENG,"FW,MF", 28,20,7,721,Manchester City
+John Stones,https://fbref.com/en/players/5eecec3d/John-Stones,ENG,"DF,MF", 30,11,6,548,Manchester City
+Nico O’Reilly,https://fbref.com/en/players/91ca4a16/Nico-OReilly,ENG,DF, 19,9,6,528,Manchester City
+Abdukodir Khusanov,https://fbref.com/en/players/d17ce930/Abdukodir-Khusanov,UZB,DF, 20,6,6,503,Manchester City
+James Mcatee,https://fbref.com/en/players/96593e89/James-Mcatee,ENG,"MF,FW", 21,15,3,349,Manchester City
+Jahmai Simpson-Pusey,https://fbref.com/en/players/383b10fd/Jahmai-Simpson-Pusey,ENG,DF, 18,2,1,96,Manchester City
+Rodri,https://fbref.com/en/players/6434f10d/Rodri,ESP,MF, 28,3,1,73,Manchester City
+Divin Mubama,https://fbref.com/en/players/92868cb5/Divin-Mubama,ENG,FW, 19,1,0,28,Manchester City
+Oscar Bobb,https://fbref.com/en/players/eed2427e/Oscar-Bobb,NOR,FW, 21,3,0,16,Manchester City
+Claudio Echeverri,https://fbref.com/en/players/49a605df/Claudio-Echeverri,ARG,FW, 18,1,0,6,Manchester City
+Vitor Reis,https://fbref.com/en/players/c4ce0ab5/Vitor-Reis,BRA,DF, 18,1,0,1,Manchester City
+Moisés Caicedo,https://fbref.com/en/players/16264a81/Moises-Caicedo,ECU,"MF,DF", 22,38,38,3351,Chelsea
+Cole Palmer,https://fbref.com/en/players/dc7f8a28/Cole-Palmer,ENG,"MF,FW", 22,37,36,3191,Chelsea
+Levi Colwill,https://fbref.com/en/players/700783e7/Levi-Colwill,ENG,DF, 21,35,35,3149,Chelsea
+Marc Cucurella,https://fbref.com/en/players/1daec722/Marc-Cucurella,ESP,DF, 26,36,33,2988,Chelsea
+Enzo Fernández,https://fbref.com/en/players/5ff4ab71/Enzo-Fernandez,ARG,MF, 23,36,32,2947,Chelsea
+Robert Sánchez,https://fbref.com/en/players/6a713852/Robert-Sanchez,ESP,GK, 26,32,32,2880,Chelsea
+Nicolas Jackson,https://fbref.com/en/players/9c36ed83/Nicolas-Jackson,SEN,FW, 23,30,28,2220,Chelsea
+Noni Madueke,https://fbref.com/en/players/bf34eebd/Noni-Madueke,ENG,FW, 22,32,27,2033,Chelsea
+Pedro Neto,https://fbref.com/en/players/7ba2eaa9/Pedro-Neto,POR,FW, 24,35,24,2269,Chelsea
+Malo Gusto,https://fbref.com/en/players/d56b9520/Malo-Gusto,FRA,DF, 21,32,19,1862,Chelsea
+Jadon Sancho,https://fbref.com/en/players/dbf053da/Jadon-Sancho,ENG,FW, 24,31,19,1764,Chelsea
+Tosin Adarabioyo,https://fbref.com/en/players/c81d773d/Tosin-Adarabioyo,ENG,DF, 26,22,15,1409,Chelsea
+Wesley Fofana,https://fbref.com/en/players/132a82f1/Wesley-Fofana,FRA,DF, 23,14,14,1172,Chelsea
+Reece James,https://fbref.com/en/players/1265a93a/Reece-James,ENG,"DF,MF", 24,19,12,1063,Chelsea
+Trevoh Chalobah,https://fbref.com/en/players/5515376c/Trevoh-Chalobah,ENG,DF, 25,13,11,910,Chelsea
+Roméo Lavia,https://fbref.com/en/players/ecad9aa5/Romeo-Lavia,BEL,MF, 20,16,11,797,Chelsea
+Christopher Nkunku,https://fbref.com/en/players/7c56da38/Christopher-Nkunku,FRA,FW, 26,27,9,921,Chelsea
+Filip Jørgensen,https://fbref.com/en/players/0107757e/Filip-Jorgensen,DEN,GK, 22,6,6,540,Chelsea
+Axel Disasi,https://fbref.com/en/players/ad82197c/Axel-Disasi,FRA,DF, 26,6,4,364,Chelsea
+João Félix,https://fbref.com/en/players/8aafd64f/Joao-Felix,POR,"FW,MF", 24,12,3,369,Chelsea
+Benoît Badiashile,https://fbref.com/en/players/06df8256/Benoit-Badiashile,FRA,DF, 23,5,3,334,Chelsea
+Kiernan Dewsbury-Hall,https://fbref.com/en/players/5c74c0f5/Kiernan-Dewsbury-Hall,ENG,"MF,FW", 25,13,2,264,Chelsea
+Joshua Acheampong,https://fbref.com/en/players/b7e62e1d/Joshua-Acheampong,ENG,DF, 18,4,2,170,Chelsea
+Tyrique George,https://fbref.com/en/players/e6f7797e/Tyrique-George,ENG,FW, 18,8,1,183,Chelsea
+Renato Veiga,https://fbref.com/en/players/fc8fcbd1/Renato-Veiga,POR,"DF,MF", 21,7,1,181,Chelsea
+Mykhailo Mudryk,https://fbref.com/en/players/049a888d/Mykhailo-Mudryk,UKR,FW, 23,7,1,151,Chelsea
+Marc Guiu,https://fbref.com/en/players/d3d774cc/Marc-Guiu,ESP,FW, 18,3,0,73,Chelsea
+Mathis Amougou,https://fbref.com/en/players/f93cca97/Mathis-Amougou,FRA,MF, 18,1,0,8,Chelsea
+Shumaira Mheuka,https://fbref.com/en/players/43d0b694/Shumaira-Mheuka,ENG,MF, 16,1,0,1,Chelsea
+Bruno Guimarães,https://fbref.com/en/players/82518f62/Bruno-Guimaraes,BRA,MF, 26,38,38,3271,Newcastle Utd
+Dan Burn,https://fbref.com/en/players/b2d31e83/Dan-Burn,ENG,DF, 32,37,37,3330,Newcastle Utd
+Alexander Isak,https://fbref.com/en/players/8e92be30/Alexander-Isak,SWE,FW, 24,34,34,2756,Newcastle Utd
+Fabian Schär,https://fbref.com/en/players/c8aa95da/Fabian-Schar,SUI,DF, 32,34,33,2934,Newcastle Utd
+Valentino Livramento,https://fbref.com/en/players/afed6722/Valentino-Livramento,ENG,DF, 21,37,32,2840,Newcastle Utd
+Jacob Murphy,https://fbref.com/en/players/de112b84/Jacob-Murphy,ENG,FW, 29,35,31,2360,Newcastle Utd
+Joelinton,https://fbref.com/en/players/c17bfb65/Joelinton,BRA,"MF,FW", 27,29,29,2393,Newcastle Utd
+Sandro Tonali,https://fbref.com/en/players/0db169ae/Sandro-Tonali,ITA,MF, 24,36,28,2630,Newcastle Utd
+Nick Pope,https://fbref.com/en/players/4b40d9ca/Nick-Pope,ENG,GK, 32,28,28,2520,Newcastle Utd
+Anthony Gordon,https://fbref.com/en/players/2bd83368/Anthony-Gordon,ENG,"FW,MF", 23,34,28,2434,Newcastle Utd
+Lewis Hall,https://fbref.com/en/players/da011f18/Lewis-Hall,ENG,DF, 19,27,24,2189,Newcastle Utd
+Harvey Barnes,https://fbref.com/en/players/3ea50f67/Harvey-Barnes,ENG,FW, 26,33,17,1755,Newcastle Utd
+Kieran Trippier,https://fbref.com/en/players/21512407/Kieran-Trippier,ENG,DF, 33,25,14,1309,Newcastle Utd
+Joe Willock,https://fbref.com/en/players/a3b03921/Joe-Willock,ENG,"MF,FW", 24,32,11,1086,Newcastle Utd
+Martin Dúbravka,https://fbref.com/en/players/3a949a25/Martin-Dubravka,SVK,GK, 35,10,10,900,Newcastle Utd
+Sean Longstaff,https://fbref.com/en/players/a2b105e0/Sean-Longstaff,ENG,MF, 26,25,8,798,Newcastle Utd
+Sven Botman,https://fbref.com/en/players/ccce7025/Sven-Botman,NED,DF, 24,8,6,412,Newcastle Utd
+Lloyd Kelly,https://fbref.com/en/players/f31def1e/Lloyd-Kelly,ENG,DF, 25,10,4,303,Newcastle Utd
+Callum Wilson,https://fbref.com/en/players/c596fcb0/Callum-Wilson,ENG,FW, 32,18,2,370,Newcastle Utd
+Emil Krafth,https://fbref.com/en/players/77cf6852/Emil-Krafth,SWE,DF, 29,12,2,342,Newcastle Utd
+Lewis Miley,https://fbref.com/en/players/2c6835e5/Lewis-Miley,ENG,MF, 18,14,1,313,Newcastle Utd
+Miguel Almirón,https://fbref.com/en/players/862a1c15/Miguel-Almiron,PAR,FW, 30,9,1,157,Newcastle Utd
+William Osula,https://fbref.com/en/players/7b355808/William-Osula,DEN,FW, 20,14,0,134,Newcastle Utd
+Matt Targett,https://fbref.com/en/players/e514ab62/Matt-Targett,ENG,DF, 28,2,0,21,Newcastle Utd
+Emiliano Martínez,https://fbref.com/en/players/7956236f/Emiliano-Martinez,ARG,GK, 31,37,37,3194,Aston Villa
+Morgan Rogers,https://fbref.com/en/players/2e5915f1/Morgan-Rogers,ENG,"FW,MF", 22,37,37,3114,Aston Villa
+Youri Tielemans,https://fbref.com/en/players/56f7a928/Youri-Tielemans,BEL,MF, 27,36,35,3026,Aston Villa
+Ezri Konsa,https://fbref.com/en/players/0313a347/Ezri-Konsa,ENG,DF, 26,34,33,2936,Aston Villa
+Ollie Watkins,https://fbref.com/en/players/aed3a70f/Ollie-Watkins,ENG,FW, 28,38,31,2598,Aston Villa
+Lucas Digne,https://fbref.com/en/players/1b84dbe1/Lucas-Digne,FRA,DF, 31,32,28,2351,Aston Villa
+John McGinn,https://fbref.com/en/players/90f91999/John-McGinn,SCO,"MF,FW", 29,34,27,2223,Aston Villa
+Matty Cash,https://fbref.com/en/players/2389cdc2/Matty-Cash,POL,DF, 26,27,24,2070,Aston Villa
+Pau Torres,https://fbref.com/en/players/532e1e4f/Pau-Torres,ESP,DF, 27,24,23,2020,Aston Villa
+Boubacar Kamara,https://fbref.com/en/players/cc77354e/Boubacar-Kamara,FRA,MF, 24,26,20,1726,Aston Villa
+Amadou Onana,https://fbref.com/en/players/828657ff/Amadou-Onana,BEL,MF, 22,26,20,1617,Aston Villa
+Jacob Ramsey,https://fbref.com/en/players/1544f145/Jacob-Ramsey,ENG,"FW,MF", 23,29,19,1623,Aston Villa
+Leon Bailey,https://fbref.com/en/players/3a233281/Leon-Bailey,JAM,"FW,MF", 26,24,14,1139,Aston Villa
+Tyrone Mings,https://fbref.com/en/players/8397a50c/Tyrone-Mings,ENG,DF, 31,14,12,1120,Aston Villa
+Ian Maatsen,https://fbref.com/en/players/cab9634e/Ian-Maatsen,NED,DF, 22,29,10,1139,Aston Villa
+Marco Asensio,https://fbref.com/en/players/45af8a54/Marco-Asensio,ESP,MF, 28,13,9,743,Aston Villa
+Diego Carlos,https://fbref.com/en/players/b4a014b1/Diego-Carlos,BRA,DF, 31,10,8,830,Aston Villa
+Axel Disasi,https://fbref.com/en/players/ad82197c/Axel-Disasi,FRA,DF, 26,7,5,490,Aston Villa
+Lamare Bogarde,https://fbref.com/en/players/bca5c4a7/Lamare-Bogarde,NED,"DF,MF", 20,8,5,476,Aston Villa
+Andrés García,https://fbref.com/en/players/40498af1/Andres-Garcia,ESP,"DF,MF", 21,7,5,318,Aston Villa
+Jáder Durán,https://fbref.com/en/players/414184f7/Jader-Duran,COL,FW, 20,20,4,638,Aston Villa
+Marcus Rashford,https://fbref.com/en/players/a1d5bd30/Marcus-Rashford,ENG,FW, 26,10,4,444,Aston Villa
+Ross Barkley,https://fbref.com/en/players/3a24769f/Ross-Barkley,ENG,MF, 30,20,3,581,Aston Villa
+Jaden Philogene Bidace,https://fbref.com/en/players/19f4d211/Jaden-Philogene-Bidace,ENG,"FW,MF", 22,11,2,332,Aston Villa
+Donyell Malen,https://fbref.com/en/players/116c35df/Donyell-Malen,NED,FW, 25,14,2,305,Aston Villa
+Robin Olsen,https://fbref.com/en/players/e7ee38c3/Robin-Olsen,SWE,GK, 34,4,1,226,Aston Villa
+Kosta Nedeljković,https://fbref.com/en/players/c70be9cf/Kosta-Nedeljkovic,SRB,DF, 18,5,0,126,Aston Villa
+Emi Buendía,https://fbref.com/en/players/66b76d44/Emi-Buendia,ARG,"MF,FW", 27,12,0,98,Aston Villa
+Matz Sels,https://fbref.com/en/players/834b5c4c/Matz-Sels,BEL,GK,32,38,38,3420,Nott'ham Forest
+Nikola Milenković,https://fbref.com/en/players/bee704fc/Nikola-Milenkovic,SRB,DF,26,37,37,3330,Nott'ham Forest
+Murillo,https://fbref.com/en/players/1704b0b8/Murillo,BRA,DF,22,36,36,3188,Nott'ham Forest
+Ola Aina,https://fbref.com/en/players/246d153b/Ola-Aina,NGA,DF,27,35,35,2995,Nott'ham Forest
+Chris Wood,https://fbref.com/en/players/4e9a0555/Chris-Wood,NZL,FW,32,36,35,2959,Nott'ham Forest
+Morgan Gibbs-White,https://fbref.com/en/players/32f60ed8/Morgan-Gibbs-White,ENG,MF,24,34,34,2803,Nott'ham Forest
+Elliot Anderson,https://fbref.com/en/players/de31038e/Elliot-Anderson,ENG,MF,21,37,33,2728,Nott'ham Forest
+Anthony Elanga,https://fbref.com/en/players/2fba6108/Anthony-Elanga,SWE,"FW,MF",22,38,31,2501,Nott'ham Forest
+Neco Williams,https://fbref.com/en/players/dd323728/Neco-Williams,WAL,DF,23,35,28,2594,Nott'ham Forest
+Callum Hudson-Odoi,https://fbref.com/en/players/15f3ec41/Callum-Hudson-Odoi,ENG,"FW,MF",23,31,25,2194,Nott'ham Forest
+Nicolás Domínguez,https://fbref.com/en/players/20b3a502/Nicolas-Dominguez,ARG,"MF,FW",26,34,23,1963,Nott'ham Forest
+Ryan Yates,https://fbref.com/en/players/c1fe2a48/Ryan-Yates,ENG,MF,26,35,18,1915,Nott'ham Forest
+Álex Moreno,https://fbref.com/en/players/16e9d0ea/Alex-Moreno,ESP,"DF,MF",31,15,11,955,Nott'ham Forest
+Ibrahim Sangaré,https://fbref.com/en/players/bced0375/Ibrahim-Sangare,CIV,MF,26,13,7,590,Nott'ham Forest
+Morato,https://fbref.com/en/players/0f41e2ee/Morato,BRA,DF,23,26,6,907,Nott'ham Forest
+Jota Silva,https://fbref.com/en/players/4d77e622/Jota-Silva,POR,"FW,MF",24,31,5,854,Nott'ham Forest
+James Ward-Prowse,https://fbref.com/en/players/3515d404/James-Ward-Prowse,ENG,MF,29,9,5,400,Nott'ham Forest
+Danilo,https://fbref.com/en/players/a816dbfb/Danilo,BRA,"MF,FW",23,8,5,275,Nott'ham Forest
+Taiwo Awoniyi,https://fbref.com/en/players/e5478b87/Taiwo-Awoniyi,NGA,FW,26,26,3,416,Nott'ham Forest
+Ramón Sosa,https://fbref.com/en/players/2d3417a1/Ramon-Sosa,PAR,"FW,MF",24,19,1,295,Nott'ham Forest
+Willy Boly,https://fbref.com/en/players/a4ac4b8f/Willy-Boly,CIV,DF,33,6,1,150,Nott'ham Forest
+Harry Toffolo,https://fbref.com/en/players/a105d46a/Harry-Toffolo,ENG,DF,28,4,1,137,Nott'ham Forest
+Eric da Silva Moreira,https://fbref.com/en/players/0a4f579a/Eric-da-Silva-Moreira,GER,"MF,DF",18,2,0,30,Nott'ham Forest
+Bart Verbruggen,https://fbref.com/en/players/cf134113/Bart-Verbruggen,NED,GK, 21,36,36,3240,Brighton
+Jan Paul van Hecke,https://fbref.com/en/players/4fd08daa/Jan-Paul-van-Hecke,NED,DF, 24,34,33,2958,Brighton
+Carlos Baleba,https://fbref.com/en/players/a1390d2f/Carlos-Baleba,CMR,MF, 20,34,31,2661,Brighton
+Kaoru Mitoma,https://fbref.com/en/players/74618572/Kaoru-Mitoma,JPN,"FW,MF", 27,36,28,2603,Brighton
+Pervis Estupiñán,https://fbref.com/en/players/d38fdf53/Pervis-Estupinan,ECU,DF, 26,30,26,2402,Brighton
+Danny Welbeck,https://fbref.com/en/players/ce5143da/Danny-Welbeck,ENG,FW, 33,30,24,2115,Brighton
+Lewis Dunk,https://fbref.com/en/players/282f75f3/Lewis-Dunk,ENG,DF, 32,25,23,2083,Brighton
+João Pedro,https://fbref.com/en/players/e8832875/Joao-Pedro,BRA,"FW,MF", 22,27,23,1948,Brighton
+Yasin Ayari,https://fbref.com/en/players/f173303a/Yasin-Ayari,SWE,MF, 20,34,22,1965,Brighton
+Jack Hinshelwood,https://fbref.com/en/players/e98211e7/Jack-Hinshelwood,ENG,"MF,DF", 19,26,22,1842,Brighton
+Yankuba Minteh,https://fbref.com/en/players/c3cf087d/Yankuba-Minteh,GAM,"FW,MF", 20,32,20,1838,Brighton
+Joël Veltman,https://fbref.com/en/players/dad4b285/Joel-Veltman,NED,DF, 32,21,19,1697,Brighton
+Georginio Rutter,https://fbref.com/en/players/c64c01fc/Georginio-Rutter,FRA,"MF,FW", 22,28,19,1656,Brighton
+Simon Adingra,https://fbref.com/en/players/4dcec659/Simon-Adingra,CIV,"FW,MF", 22,29,12,1097,Brighton
+Matt O'Riley,https://fbref.com/en/players/fb495bb8/Matt-ORiley,DEN,MF, 23,21,11,938,Brighton
+Adam Webster,https://fbref.com/en/players/c40b6180/Adam-Webster,ENG,DF, 29,14,11,887,Brighton
+Mats Wieffer,https://fbref.com/en/players/4876c9ab/Mats-Wieffer,NED,"DF,MF", 24,25,10,1015,Brighton
+Igor,https://fbref.com/en/players/a4e85758/Igor,BRA,DF, 26,13,10,961,Brighton
+Tariq Lamptey,https://fbref.com/en/players/f4e433d4/Tariq-Lamptey,GHA,DF, 23,15,10,860,Brighton
+Brajan Gruda,https://fbref.com/en/players/ae9b998d/Brajan-Gruda,GER,"MF,FW", 20,21,8,687,Brighton
+Ferdi Kadioglu,https://fbref.com/en/players/66c52a77/Ferdi-Kadioglu,TUR,"DF,MF", 24,6,5,385,Brighton
+Diego Gómez,https://fbref.com/en/players/916728da/Diego-Gomez,PAR,MF, 21,16,4,516,Brighton
+James Milner,https://fbref.com/en/players/2f90f6b8/James-Milner,ENG,MF, 38,4,3,170,Brighton
+Julio Enciso,https://fbref.com/en/players/9cfbad36/Julio-Enciso,PAR,"MF,FW", 20,12,2,294,Brighton
+Evan Ferguson,https://fbref.com/en/players/4596da74/Evan-Ferguson,IRL,FW, 19,13,2,246,Brighton
+Jason Steele,https://fbref.com/en/players/28300a16/Jason-Steele,ENG,GK, 33,2,2,180,Brighton
+Solly March,https://fbref.com/en/players/bb5fbd2b/Solly-March,ENG,"FW,MF", 30,8,1,168,Brighton
+Billy Gilmour,https://fbref.com/en/players/df10e27c/Billy-Gilmour,SCO,MF, 23,2,1,98,Brighton
+Eiran Cashin,https://fbref.com/en/players/f557c3b8/Eiran-Cashin,IRL,DF, 22,2,0,20,Brighton
+Jakub Moder,https://fbref.com/en/players/f230bc30/Jakub-Moder,POL,MF, 25,4,0,11,Brighton
+Jeremy Sarmiento,https://fbref.com/en/players/ac0d576d/Jeremy-Sarmiento,ECU,MF, 22,1,0,9,Brighton
+Harry Howell,https://fbref.com/en/players/d8a7e52c/Harry-Howell,ENG,FW, 15,1,0,7,Brighton
+Milos Kerkez,https://fbref.com/en/players/0ad53bdc/Milos-Kerkez,HUN,DF, 20,38,38,3336,Bournemouth
+Antoine Semenyo,https://fbref.com/en/players/efd2ec23/Antoine-Semenyo,GHA,FW, 24,37,36,3203,Bournemouth
+Illia Zabarnyi,https://fbref.com/en/players/88968486/Illia-Zabarnyi,UKR,DF, 21,36,35,3109,Bournemouth
+Lewis Cook,https://fbref.com/en/players/2afc7272/Lewis-Cook,ENG,"MF,DF", 27,36,32,2978,Bournemouth
+Kepa Arrizabalaga,https://fbref.com/en/players/28d596a0/Kepa-Arrizabalaga,ESP,GK, 29,31,31,2790,Bournemouth
+Justin Kluivert,https://fbref.com/en/players/4c3a6744/Justin-Kluivert,NED,MF, 25,34,29,2340,Bournemouth
+Evanilson,https://fbref.com/en/players/6f3cc2fe/Evanilson,BRA,FW, 24,31,28,2319,Bournemouth
+Ryan Christie,https://fbref.com/en/players/26ce2263/Ryan-Christie,SCO,MF, 29,29,27,2117,Bournemouth
+Dean Huijsen,https://fbref.com/en/players/87278bce/Dean-Huijsen,ESP,DF, 19,32,26,2427,Bournemouth
+Dango Ouattara,https://fbref.com/en/players/2f9e4435/Dango-Ouattara,BFA,FW, 22,32,21,2005,Bournemouth
+Tyler Adams,https://fbref.com/en/players/2b09d998/Tyler-Adams,USA,MF, 25,28,21,1965,Bournemouth
+Marcus Tavernier,https://fbref.com/en/players/5c0da4a4/Marcus-Tavernier,ENG,"FW,MF", 25,29,20,1939,Bournemouth
+Adam Smith,https://fbref.com/en/players/20b104bc/Adam-Smith,ENG,DF, 33,25,19,1590,Bournemouth
+Marcos Senesi,https://fbref.com/en/players/35141f4c/Marcos-Senesi,ARG,DF, 27,17,13,1106,Bournemouth
+David Brooks,https://fbref.com/en/players/dc4cae05/David-Brooks,WAL,"FW,MF", 27,29,9,960,Bournemouth
+Alex Scott,https://fbref.com/en/players/104d0bb8/Alex-Scott,ENG,MF, 20,20,8,755,Bournemouth
+Julian Araujo,https://fbref.com/en/players/8f4541c2/Julian-Araujo,MEX,DF, 22,12,7,497,Bournemouth
+James Hill,https://fbref.com/en/players/69942fb3/James-Hill,ENG,DF, 22,10,6,448,Bournemouth
+Mark Travers,https://fbref.com/en/players/fe558029/Mark-Travers,IRL,GK, 25,5,5,450,Bournemouth
+Enes Ünal,https://fbref.com/en/players/f8eca1b6/Enes-Unal,TUR,"FW,MF", 27,17,2,345,Bournemouth
+Neto,https://fbref.com/en/players/a9dc785c/Neto,BRA,GK, 35,2,2,180,Bournemouth
+Luis Sinisterra,https://fbref.com/en/players/8e16dd48/Luis-Sinisterra,COL,"FW,MF", 25,12,1,236,Bournemouth
+Philip Billing,https://fbref.com/en/players/d328a254/Philip-Billing,DEN,MF, 28,10,1,184,Bournemouth
+Max Aarons,https://fbref.com/en/players/774cf58b/Max-Aarons,ENG,DF, 24,3,1,86,Bournemouth
+Daniel Jebbison,https://fbref.com/en/players/03edb878/Daniel-Jebbison,ENG,FW, 20,16,0,119,Bournemouth
+Ben Winterburn,https://fbref.com/en/players/ba31eee2/Ben-Winterburn,ENG,"MF,FW", 19,4,0,24,Bournemouth
+Julio Soler,https://fbref.com/en/players/98c8559a/Julio-Soler,ARG,"DF,FW", 19,3,0,11,Bournemouth
+Remy Rees-Dottin,https://fbref.com/en/players/1db75ccb/Remy-Rees-Dottin,ENG,FW, 18,1,0,1,Bournemouth
+Zain Silcott-Duberry,https://fbref.com/en/players/2f5fa231/Zain-Silcott-Duberry,MSR,FW, 19,1,0,1,Bournemouth
+Nathan Collins,https://fbref.com/en/players/a8c19eb8/Nathan-Collins,IRL,DF, 23,38,38,3420,Brentford
+Bryan Mbeumo,https://fbref.com/en/players/6afaebf2/Bryan-Mbeumo,CMR,FW, 24,38,38,3414,Brentford
+Mark Flekken,https://fbref.com/en/players/a92ab7be/Mark-Flekken,NED,GK, 31,37,37,3275,Brentford
+Keane Lewis-Potter,https://fbref.com/en/players/41f08ac8/Keane-Lewis-Potter,ENG,"DF,FW", 23,38,36,3093,Brentford
+Yoane Wissa,https://fbref.com/en/players/2500cef9/Yoane-Wissa,COD,FW, 27,35,34,2919,Brentford
+Mikkel Damsgaard,https://fbref.com/en/players/215f3907/Mikkel-Damsgaard,DEN,"MF,FW", 24,38,34,2911,Brentford
+Christian Nørgaard,https://fbref.com/en/players/df0a4c90/Christian-Norgaard,DEN,MF, 30,34,34,2819,Brentford
+Sepp van den Berg,https://fbref.com/en/players/7bf9400b/Sepp-van-den-Berg,NED,DF, 22,31,29,2586,Brentford
+Vitaly Janelt,https://fbref.com/en/players/8449d35e/Vitaly-Janelt,GER,MF, 26,32,27,2254,Brentford
+Kevin Schade,https://fbref.com/en/players/52afb588/Kevin-Schade,GER,FW, 22,38,26,2293,Brentford
+Ethan Pinnock,https://fbref.com/en/players/e541326e/Ethan-Pinnock,JAM,DF, 31,22,21,1913,Brentford
+Kristoffer Ajer,https://fbref.com/en/players/a8c0acb7/Kristoffer-Ajer,NOR,DF, 26,24,17,1438,Brentford
+Yehor Yarmoliuk,https://fbref.com/en/players/907a5d7c/Yehor-Yarmoliuk,UKR,MF, 20,31,15,1450,Brentford
+Mads Roerslev,https://fbref.com/en/players/57c94db2/Mads-Roerslev,DEN,DF, 25,19,11,1101,Brentford
+Mathias Jensen,https://fbref.com/en/players/0f134faf/Mathias-Jensen,DEN,MF, 28,24,8,862,Brentford
+Michael Kayode,https://fbref.com/en/players/e19660a8/Michael-Kayode,ITA,DF, 20,12,6,528,Brentford
+Fabio Carvalho,https://fbref.com/en/players/966e28d0/Fabio-Carvalho,POR,"FW,MF", 21,19,3,455,Brentford
+Ben Mee,https://fbref.com/en/players/8df7a2fb/Ben-Mee,ENG,DF, 34,7,2,183,Brentford
+Thiago,https://fbref.com/en/players/dc45ac24/Thiago,BRA,"FW,MF", 23,8,1,175,Brentford
+Hákon Rafn Valdimarsson,https://fbref.com/en/players/57a34cf4/Hakon-Rafn-Valdimarsson,ISL,GK, 22,2,1,145,Brentford
+Edmond-Paris Maghoma,https://fbref.com/en/players/8a3ddcd2/Edmond-Paris-Maghoma,ENG,"MF,FW", 23,8,0,119,Brentford
+Rico Henry,https://fbref.com/en/players/8a3c1dc7/Rico-Henry,ENG,DF, 27,5,0,99,Brentford
+Yunus Emre Konak,https://fbref.com/en/players/e02b5b36/Yunus-Emre-Konak,TUR,"FW,MF", 18,10,0,42,Brentford
+Kim Jisoo,https://fbref.com/en/players/f4065d9e/Kim-Jisoo,KOR,DF, 19,3,0,30,Brentford
+Frank Onyeka,https://fbref.com/en/players/2944f86f/Frank-Onyeka,NGA,MF, 26,2,0,25,Brentford
+Gustavo Nunes,https://fbref.com/en/players/e504780f/Gustavo-Nunes,BRA,"FW,MF", 18,3,0,12,Brentford
+Jayden Meghoma,https://fbref.com/en/players/07382f6c/Jayden-Meghoma,ENG,DF, 18,1,0,5,Brentford
+Ryan Trevitt,https://fbref.com/en/players/732327ae/Ryan-Trevitt,ENG,MF, 21,1,0,4,Brentford
+Bernd Leno,https://fbref.com/en/players/2628fd2b/Bernd-Leno,GER,GK,32,38,38,3420,Fulham
+Antonee Robinson,https://fbref.com/en/players/289601e6/Antonee-Robinson,USA,DF,26,36,35,3167,Fulham
+Alex Iwobi,https://fbref.com/en/players/6ca5ec4b/Alex-Iwobi,NGA,"FW,MF",28,38,35,2981,Fulham
+Calvin Bassey,https://fbref.com/en/players/a36524bf/Calvin-Bassey,NGA,DF,24,35,34,3074,Fulham
+Raúl Jiménez,https://fbref.com/en/players/b561db50/Raul-Jimenez,MEX,FW,33,38,30,2494,Fulham
+Joachim Andersen,https://fbref.com/en/players/e34fc66d/Joachim-Andersen,DEN,DF,28,29,29,2583,Fulham
+Saša Lukić,https://fbref.com/en/players/c6e8cf1f/Sasa-Lukic,SRB,MF,27,30,28,2344,Fulham
+Sander Berge,https://fbref.com/en/players/d0b6129f/Sander-Berge,NOR,MF,26,31,26,2224,Fulham
+Emile Smith Rowe,https://fbref.com/en/players/17695062/Emile-Smith-Rowe,ENG,MF,24,34,25,2043,Fulham
+Andreas Pereira,https://fbref.com/en/players/6639e500/Andreas-Pereira,BRA,MF,28,33,25,2013,Fulham
+Kenny Tete,https://fbref.com/en/players/77d7c96f/Kenny-Tete,NED,DF,28,22,21,1774,Fulham
+Adama Traoré,https://fbref.com/en/players/9a28eba4/Adama-Traore,ESP,"FW,MF",28,36,18,1772,Fulham
+Timothy Castagne,https://fbref.com/en/players/197640fd/Timothy-Castagne,BEL,DF,28,24,17,1649,Fulham
+Issa Diop,https://fbref.com/en/players/a712ca2b/Issa-Diop,FRA,DF,27,21,15,1339,Fulham
+Harry Wilson,https://fbref.com/en/players/c6dc9ecd/Harry-Wilson,WAL,"FW,MF",27,25,12,1162,Fulham
+Rodrigo Muniz,https://fbref.com/en/players/a755db8c/Rodrigo-Muniz,BRA,FW,23,31,8,964,Fulham
+Ryan Sessegnon,https://fbref.com/en/players/6aa3e78b/Ryan-Sessegnon,ENG,"FW,DF",24,16,7,580,Fulham
+Reiss Nelson,https://fbref.com/en/players/c5bdb6e3/Reiss-Nelson,ENG,FW,24,11,5,487,Fulham
+Jorge Cuenca,https://fbref.com/en/players/0abc51f2/Jorge-Cuenca,ESP,DF,24,8,4,351,Fulham
+Tom Cairney,https://fbref.com/en/players/a8748947/Tom-Cairney,SCO,MF,33,25,3,628,Fulham
+Willian,https://fbref.com/en/players/8b9ebd03/Willian,BRA,"FW,MF",35,10,2,257,Fulham
+Joshua King,https://fbref.com/en/players/86109b3b/Joshua-King,ENG,MF,17,8,1,130,Fulham
+Harrison Reed,https://fbref.com/en/players/803ae100/Harrison-Reed,ENG,MF,29,12,0,108,Fulham
+Martial Godo,https://fbref.com/en/players/e0eea46f/Martial-Godo,ENG,"FW,DF",21,2,0,24,Fulham
+Carlos Vinícius,https://fbref.com/en/players/8b529245/Carlos-Vinicius,BRA,"MF,FW",29,3,0,16,Fulham
+Jay Stansfield,https://fbref.com/en/players/b2626673/Jay-Stansfield,ENG,MF,21,1,0,1,Fulham
+Dean Henderson,https://fbref.com/en/players/e5a76dfe/Dean-Henderson,ENG,GK, 27,38,38,3420,Crystal Palace
+Daniel Muñoz,https://fbref.com/en/players/778ef829/Daniel-Munoz,COL,DF, 28,37,37,3228,Crystal Palace
+Tyrick Mitchell,https://fbref.com/en/players/5cbd1eb0/Tyrick-Mitchell,ENG,DF, 24,37,37,3092,Crystal Palace
+Maxence Lacroix,https://fbref.com/en/players/277c49ed/Maxence-Lacroix,FRA,DF, 24,35,35,3116,Crystal Palace
+Marc Guéhi,https://fbref.com/en/players/d0706b27/Marc-Guehi,ENG,DF, 24,34,34,3059,Crystal Palace
+Jean-Philippe Mateta,https://fbref.com/en/players/50e6dc35/Jean-Philippe-Mateta,FRA,FW, 27,37,33,2648,Crystal Palace
+Eberechi Eze,https://fbref.com/en/players/ae4fc6a4/Eberechi-Eze,ENG,"MF,FW", 26,34,31,2588,Crystal Palace
+Ismaila Sarr,https://fbref.com/en/players/bfdb33aa/Ismaila-Sarr,SEN,MF, 26,38,30,2711,Crystal Palace
+Jefferson Lerma,https://fbref.com/en/players/9b5ce51a/Jefferson-Lerma,COL,"MF,DF", 29,33,26,2274,Crystal Palace
+Will Hughes,https://fbref.com/en/players/a0666d3e/Will-Hughes,ENG,MF, 29,33,24,2108,Crystal Palace
+Chris Richards,https://fbref.com/en/players/0a3d6d2b/Chris-Richards,USA,DF, 24,24,22,1922,Crystal Palace
+Adam Wharton,https://fbref.com/en/players/4b542852/Adam-Wharton,ENG,MF, 20,20,16,1318,Crystal Palace
+Daichi Kamada,https://fbref.com/en/players/15b287da/Daichi-Kamada,JPN,MF, 27,34,15,1564,Crystal Palace
+Trevoh Chalobah,https://fbref.com/en/players/5515376c/Trevoh-Chalobah,ENG,DF, 25,12,12,1060,Crystal Palace
+Eddie Nketiah,https://fbref.com/en/players/a53649b7/Eddie-Nketiah,ENG,"FW,MF", 25,29,9,1034,Crystal Palace
+Nathaniel Clyne,https://fbref.com/en/players/0442183b/Nathaniel-Clyne,ENG,"DF,MF", 33,13,5,483,Crystal Palace
+Justin Devenny,https://fbref.com/en/players/6c2b66fc/Justin-Devenny,NIR,MF, 20,23,4,507,Crystal Palace
+Cheick Doucouré,https://fbref.com/en/players/ce4f40c7/Cheick-Doucoure,MLI,MF, 24,13,4,452,Crystal Palace
+Ben Chilwell,https://fbref.com/en/players/d2424d1b/Ben-Chilwell,ENG,DF, 27,8,1,259,Crystal Palace
+Romain Esse,https://fbref.com/en/players/87189f25/Romain-Esse,ENG,MF, 19,7,1,138,Crystal Palace
+Odsonne Édouard,https://fbref.com/en/players/0562b7f1/Odsonne-Edouard,FRA,"MF,FW", 26,2,1,115,Crystal Palace
+Joachim Andersen,https://fbref.com/en/players/e34fc66d/Joachim-Andersen,DEN,DF, 28,1,1,90,Crystal Palace
+Chadi Riad,https://fbref.com/en/players/b3b9b8b8/Chadi-Riad,MAR,DF, 21,1,1,90,Crystal Palace
+Joel Ward,https://fbref.com/en/players/8a7ff278/Joel-Ward,ENG,DF, 34,2,1,71,Crystal Palace
+Jeffrey Schlupp,https://fbref.com/en/players/3312f911/Jeffrey-Schlupp,GHA,"MF,DF", 31,12,0,103,Crystal Palace
+Matheus França,https://fbref.com/en/players/077faf72/Matheus-Franca,BRA,"MF,FW", 20,4,0,55,Crystal Palace
+Jordan Ayew,https://fbref.com/en/players/da052c14/Jordan-Ayew,GHA,"FW,MF", 32,1,0,21,Crystal Palace
+Caleb Kporha,https://fbref.com/en/players/c80f8c9d/Caleb-Kporha,ENG,DF, 18,2,0,13,Crystal Palace
+Asher Agbinone,https://fbref.com/en/players/6a10efb3/Asher-Agbinone,ENG,MF, 18,2,0,6,Crystal Palace
+Jordan Pickford,https://fbref.com/en/players/4806ec67/Jordan-Pickford,ENG,GK, 30,38,38,3420,Everton
+Vitaliy Mykolenko,https://fbref.com/en/players/30d4a2e5/Vitaliy-Mykolenko,UKR,DF, 25,35,35,3082,Everton
+Idrissa Gana Gueye,https://fbref.com/en/players/72c812f3/Idrissa-Gana-Gueye,SEN,MF, 34,37,35,3063,Everton
+James Tarkowski,https://fbref.com/en/players/15ea812b/James-Tarkowski,ENG,DF, 31,33,33,2922,Everton
+Abdoulaye Doucouré,https://fbref.com/en/players/02b29014/Abdoulaye-Doucoure,MLI,MF, 31,33,31,2564,Everton
+Iliman Ndiaye,https://fbref.com/en/players/5ed97752/Iliman-Ndiaye,SEN,FW, 24,33,29,2430,Everton
+Jarrad Branthwaite,https://fbref.com/en/players/c1949191/Jarrad-Branthwaite,ENG,DF, 22,30,28,2511,Everton
+Jack Harrison,https://fbref.com/en/players/aa849a12/Jack-Harrison,ENG,FW, 27,34,24,2076,Everton
+Ashley Young,https://fbref.com/en/players/be927d03/Ashley-Young,ENG,DF, 39,32,19,1875,Everton
+Dominic Calvert-Lewin,https://fbref.com/en/players/59e6e5bf/Dominic-Calvert-Lewin,ENG,FW, 27,26,19,1609,Everton
+James Garner,https://fbref.com/en/players/4e015693/James-Garner,ENG,"MF,DF", 23,21,17,1594,Everton
+Jake O'Brien,https://fbref.com/en/players/25f2ef01/Jake-OBrien,IRL,DF, 23,20,17,1571,Everton
+Beto,https://fbref.com/en/players/ed5c0319/Beto,GNB,FW, 26,30,15,1534,Everton
+Dwight McNeil,https://fbref.com/en/players/fc15fb84/Dwight-McNeil,ENG,"MF,FW", 24,21,15,1371,Everton
+Jesper Lindstrøm,https://fbref.com/en/players/37dc1a48/Jesper-Lindstrom,DEN,FW, 24,25,15,1239,Everton
+Orel Mangala,https://fbref.com/en/players/a572e291/Orel-Mangala,BEL,MF, 26,19,14,1261,Everton
+Michael Keane,https://fbref.com/en/players/c5b7c315/Michael-Keane,ENG,DF, 31,14,11,1049,Everton
+Carlos Alcaraz,https://fbref.com/en/players/4abac767/Carlos-Alcaraz,ARG,"FW,MF", 21,15,7,764,Everton
+Tim Iroegbunam,https://fbref.com/en/players/84c5ceea/Tim-Iroegbunam,ENG,MF, 21,18,5,574,Everton
+Armando Broja,https://fbref.com/en/players/97220da2/Armando-Broja,ALB,FW, 22,10,4,334,Everton
+Nathan Patterson,https://fbref.com/en/players/230f0471/Nathan-Patterson,SCO,DF, 22,10,3,347,Everton
+Séamus Coleman,https://fbref.com/en/players/0420d84f/Seamus-Coleman,IRL,DF, 35,5,3,215,Everton
+Roman Dixon,https://fbref.com/en/players/6fba4dba/Roman-Dixon,ENG,DF, 19,1,1,90,Everton
+Harrison Armstrong,https://fbref.com/en/players/de59e609/Harrison-Armstrong,ENG,MF, 17,3,0,48,Everton
+Youssef Chermiti,https://fbref.com/en/players/890f108d/Youssef-Chermiti,POR,"FW,MF", 20,4,0,45,Everton
+Mason Holgate,https://fbref.com/en/players/d0042ab9/Mason-Holgate,JAM,"FW,DF", 27,1,0,6,Everton
+Max Kilman,https://fbref.com/en/players/d0f72bf1/Max-Kilman,ENG,DF,27,38,38,3348,West Ham
+Aaron Wan-Bissaka,https://fbref.com/en/players/9e525177/Aaron-Wan-Bissaka,ENG,DF,26,36,35,3154,West Ham
+Jarrod Bowen,https://fbref.com/en/players/79c84d1c/Jarrod-Bowen,ENG,"FW,MF",27,34,34,2973,West Ham
+Mohammed Kudus,https://fbref.com/en/players/b62878a5/Mohammed-Kudus,GHA,"FW,MF",23,32,31,2590,West Ham
+Tomáš Souček,https://fbref.com/en/players/6613c819/Tomas-Soucek,CZE,MF,29,35,30,2567,West Ham
+Lucas Paquetá,https://fbref.com/en/players/9b6f7fd5/Lucas-Paqueta,BRA,"MF,FW",26,33,27,2380,West Ham
+Emerson Palmieri,https://fbref.com/en/players/e0bc6fdc/Emerson-Palmieri,ITA,DF,29,31,26,2113,West Ham
+Alphonse Areola,https://fbref.com/en/players/2f965a72/Alphonse-Areola,FRA,GK,31,26,25,2260,West Ham
+Konstantinos Mavropanos,https://fbref.com/en/players/00963611/Konstantinos-Mavropanos,GRE,DF,26,33,21,2045,West Ham
+Jean-Clair Todibo,https://fbref.com/en/players/88f130ed/Jean-Clair-Todibo,FRA,DF,24,27,20,1825,West Ham
+Edson Álvarez,https://fbref.com/en/players/8b3ab7ad/Edson-Alvarez,MEX,MF,26,28,20,1772,West Ham
+Guido Rodríguez,https://fbref.com/en/players/34e393f2/Guido-Rodriguez,ARG,MF,30,23,16,1149,West Ham
+Carlos Soler,https://fbref.com/en/players/fed17f5a/Carlos-Soler,ESP,"MF,FW",27,31,14,1409,West Ham
+Łukasz Fabiański,https://fbref.com/en/players/9328b835/Lukasz-Fabianski,POL,GK,39,14,13,1160,West Ham
+James Ward-Prowse,https://fbref.com/en/players/3515d404/James-Ward-Prowse,ENG,MF,29,15,12,1039,West Ham
+Vladimír Coufal,https://fbref.com/en/players/fdf3cb77/Vladimir-Coufal,CZE,DF,31,22,11,1067,West Ham
+Michail Antonio,https://fbref.com/en/players/ac05f970/Michail-Antonio,JAM,FW,34,14,11,836,West Ham
+Aaron Cresswell,https://fbref.com/en/players/4f974391/Aaron-Cresswell,ENG,DF,34,18,10,824,West Ham
+Crysencio Summerville,https://fbref.com/en/players/df04eb4b/Crysencio-Summerville,NED,"FW,MF",22,19,7,786,West Ham
+Oliver Scarles,https://fbref.com/en/players/242e5e6d/Oliver-Scarles,ENG,"DF,FW",18,15,7,665,West Ham
+Niclas Füllkrug,https://fbref.com/en/players/4f16405e/Niclas-Fullkrug,GER,FW,31,18,6,790,West Ham
+Danny Ings,https://fbref.com/en/players/07802f7f/Danny-Ings,ENG,"FW,MF",32,15,1,284,West Ham
+Andy Irving,https://fbref.com/en/players/b1be9fc0/Andy-Irving,SCO,MF,24,10,1,166,West Ham
+Evan Ferguson,https://fbref.com/en/players/4596da74/Evan-Ferguson,IRL,FW,19,8,1,156,West Ham
+Luis Guilherme,https://fbref.com/en/players/b7672d43/Luis-Guilherme,BRA,"MF,FW",18,12,1,150,West Ham
+Lewis Orford,https://fbref.com/en/players/40aaa04c/Lewis-Orford,ENG,MF,18,2,0,49,West Ham
+Kaelan Casey,https://fbref.com/en/players/cd4b2c5f/Kaelan-Casey,ENG,DF,19,1,0,1,West Ham
+Bruno Fernandes,https://fbref.com/en/players/507c7bdf/Bruno-Fernandes,POR,MF, 29,36,35,3018,Manchester Utd
+André Onana,https://fbref.com/en/players/e9c0c1b2/Andre-Onana,CMR,GK, 28,34,34,3060,Manchester Utd
+Noussair Mazraoui,https://fbref.com/en/players/b74277a0/Noussair-Mazraoui,MAR,DF, 26,37,34,2838,Manchester Utd
+Diogo Dalot,https://fbref.com/en/players/d9565625/Diogo-Dalot,POR,DF, 25,33,31,2814,Manchester Utd
+Matthijs de Ligt,https://fbref.com/en/players/d6e53a3a/Matthijs-de-Ligt,NED,DF, 24,29,25,2123,Manchester Utd
+Alejandro Garnacho,https://fbref.com/en/players/7aa8adfe/Alejandro-Garnacho,ARG,"MF,FW", 20,36,23,2199,Manchester Utd
+Rasmus Højlund,https://fbref.com/en/players/491a433d/Rasmus-Hojlund,DEN,FW, 21,32,23,2004,Manchester Utd
+Manuel Ugarte Ribeiro,https://fbref.com/en/players/c9817014/Manuel-Ugarte-Ribeiro,URU,MF, 23,29,22,1785,Manchester Utd
+Amad Diallo,https://fbref.com/en/players/9dc96f10/Amad-Diallo,CIV,"MF,FW", 22,26,20,1901,Manchester Utd
+Lisandro Martínez,https://fbref.com/en/players/bac46a10/Lisandro-Martinez,ARG,DF, 26,20,20,1751,Manchester Utd
+Harry Maguire,https://fbref.com/en/players/d8931174/Harry-Maguire,ENG,DF, 31,27,19,1758,Manchester Utd
+Kobbie Mainoo,https://fbref.com/en/players/c6220452/Kobbie-Mainoo,ENG,MF, 19,25,19,1651,Manchester Utd
+Casemiro,https://fbref.com/en/players/4d224fe8/Casemiro,BRA,MF, 32,24,18,1494,Manchester Utd
+Joshua Zirkzee,https://fbref.com/en/players/028e70b9/Joshua-Zirkzee,NED,"FW,MF", 23,32,14,1402,Manchester Utd
+Leny Yoro,https://fbref.com/en/players/6763f716/Leny-Yoro,FRA,DF, 18,21,12,1165,Manchester Utd
+Marcus Rashford,https://fbref.com/en/players/a1d5bd30/Marcus-Rashford,ENG,"FW,MF", 26,15,12,978,Manchester Utd
+Christian Eriksen,https://fbref.com/en/players/980522ec/Christian-Eriksen,DEN,MF, 32,23,11,1061,Manchester Utd
+Patrick Dorgu,https://fbref.com/en/players/e6536124/Patrick-Dorgu,DEN,DF, 19,12,10,842,Manchester Utd
+Mason Mount,https://fbref.com/en/players/9674002f/Mason-Mount,ENG,MF, 25,17,8,622,Manchester Utd
+Victor Lindelöf,https://fbref.com/en/players/f5deef4c/Victor-Lindelof,SWE,DF, 30,16,6,704,Manchester Utd
+Altay Bayındır,https://fbref.com/en/players/072e68ed/Altay-Bayindir,TUR,GK, 26,4,4,360,Manchester Utd
+Luke Shaw,https://fbref.com/en/players/9c94165b/Luke-Shaw,ENG,DF, 29,7,4,349,Manchester Utd
+Harry Amass,https://fbref.com/en/players/7b47100c/Harry-Amass,ENG,DF, 17,5,4,346,Manchester Utd
+Jonny Evans,https://fbref.com/en/players/f8fcd2a5/Jonny-Evans,NIR,DF, 36,7,3,315,Manchester Utd
+Ayden Heaven,https://fbref.com/en/players/64e17fab/Ayden-Heaven,ENG,DF, 17,4,2,170,Manchester Utd
+Tyler Fredricson,https://fbref.com/en/players/58630379/Tyler-Fredricson,ENG,DF, 19,2,2,165,Manchester Utd
+Tyrell Malacia,https://fbref.com/en/players/6b6c793c/Tyrell-Malacia,NED,DF, 24,3,2,100,Manchester Utd
+Chidozie Obi-Martin,https://fbref.com/en/players/0c9bfc3b/Chidozie-Obi-Martin,DEN,FW, 16,7,1,165,Manchester Utd
+Toby Collyer,https://fbref.com/en/players/4f9091bc/Toby-Collyer,ENG,MF, 20,6,0,179,Manchester Utd
+Antony,https://fbref.com/en/players/99127249/Antony,BRA,"DF,MF", 24,8,0,141,Manchester Utd
+Scott McTominay,https://fbref.com/en/players/d93c2511/Scott-McTominay,SCO,MF, 27,2,0,19,Manchester Utd
+Rayan Aït-Nouri,https://fbref.com/en/players/9b398aea/Rayan-Ait-Nouri,ALG,DF, 23,37,37,3109,Wolves
+João Gomes,https://fbref.com/en/players/8b57ad2c/Joao-Gomes,BRA,MF, 23,36,35,2974,Wolves
+Nélson Semedo,https://fbref.com/en/players/d04b94db/Nelson-Semedo,POR,DF, 30,34,32,2886,Wolves
+André,https://fbref.com/en/players/ec604e2c/Andre,BRA,MF, 23,33,31,2472,Wolves
+Toti Gomes,https://fbref.com/en/players/f0caab96/Toti-Gomes,POR,DF, 25,31,30,2614,Wolves
+Jørgen Strand Larsen,https://fbref.com/en/players/f553b2b3/Jorgen-Strand-Larsen,NOR,FW, 24,35,30,2587,Wolves
+José Sá,https://fbref.com/en/players/903b6e8b/Jose-Sa,POR,GK, 31,29,29,2609,Wolves
+Matheus Cunha,https://fbref.com/en/players/dc62b55d/Matheus-Cunha,BRA,"MF,FW", 25,33,29,2597,Wolves
+Matt Doherty,https://fbref.com/en/players/d557d734/Matt-Doherty,IRL,DF, 32,30,25,2109,Wolves
+Jean-Ricner Bellegarde,https://fbref.com/en/players/10f0fdd3/Jean-Ricner-Bellegarde,FRA,"MF,FW", 26,35,20,1677,Wolves
+Santiago Bueno,https://fbref.com/en/players/edc98fac/Santiago-Bueno,URU,DF, 25,29,18,1687,Wolves
+Emmanuel Agbadou,https://fbref.com/en/players/75f1ed80/Emmanuel-Agbadou,CIV,DF, 27,16,16,1410,Wolves
+Mario Lemina,https://fbref.com/en/players/2b471f99/Mario-Lemina,GAB,"MF,DF", 30,17,15,1364,Wolves
+Marshall Munetsi,https://fbref.com/en/players/2acf0cd7/Marshall-Munetsi,ZIM,"MF,FW", 28,14,12,1078,Wolves
+Gonçalo Guedes,https://fbref.com/en/players/e6bc67d7/Goncalo-Guedes,POR,"MF,FW", 27,29,10,995,Wolves
+Craig Dawson,https://fbref.com/en/players/3e9e06cb/Craig-Dawson,ENG,DF, 34,15,10,971,Wolves
+Pablo Sarabia,https://fbref.com/en/players/9744ff80/Pablo-Sarabia,ESP,"MF,FW", 32,23,7,814,Wolves
+Rodrigo Gomes,https://fbref.com/en/players/8dcf77c0/Rodrigo-Gomes,POR,"DF,FW", 21,25,7,810,Wolves
+Sam Johnstone,https://fbref.com/en/players/9e5708be/Sam-Johnstone,ENG,GK, 31,7,7,630,Wolves
+Hwang Hee-chan,https://fbref.com/en/players/169fd162/Hwang-Hee-chan,KOR,"MF,FW", 28,21,5,661,Wolves
+Yerson Mosquera,https://fbref.com/en/players/1e159d70/Yerson-Mosquera,COL,DF, 23,5,5,441,Wolves
+Tommy Doyle,https://fbref.com/en/players/5526deb1/Tommy-Doyle,ENG,MF, 22,24,3,488,Wolves
+Daniel Bentley,https://fbref.com/en/players/68db6358/Daniel-Bentley,ENG,GK, 31,2,2,180,Wolves
+Carlos Forbs,https://fbref.com/en/players/8a310070/Carlos-Forbs,POR,"MF,FW", 20,10,1,239,Wolves
+Pedro Lima,https://fbref.com/en/players/b2f4cad5/Pedro-Lima,BRA,DF, 18,3,1,70,Wolves
+Nasser Djiga,https://fbref.com/en/players/1a7a4d84/Nasser-Djiga,BFA,DF, 21,5,1,66,Wolves
+Daniel Podence,https://fbref.com/en/players/7fcc71d8/Daniel-Podence,POR,"MF,FW", 28,2,0,48,Wolves
+Chiquinho,https://fbref.com/en/players/dc6c2f02/Chiquinho,POR,MF, 24,1,0,7,Wolves
+Mateus Mane,https://fbref.com/en/players/c15cb409/Mateus-Mane,,MF, ,1,0,2,Wolves
+Tom King,https://fbref.com/en/players/5791b997/Tom-King,WAL,GK, 29,1,0,1,Wolves
+Alfie Pond,https://fbref.com/en/players/039c3d96/Alfie-Pond,ENG,DF, 20,1,0,1,Wolves
+Boubacar Traoré,https://fbref.com/en/players/999ceb5f/Boubacar-Traore,MLI,MF, 22,1,0,1,Wolves
+Pedro Porro,https://fbref.com/en/players/27d0a506/Pedro-Porro,ESP,DF, 24,33,28,2610,Tottenham
+Dejan Kulusevski,https://fbref.com/en/players/df3cda47/Dejan-Kulusevski,SWE,"MF,FW", 24,32,27,2389,Tottenham
+Dominic Solanke,https://fbref.com/en/players/e77dc3b2/Dominic-Solanke,ENG,FW, 26,27,25,2201,Tottenham
+Brennan Johnson,https://fbref.com/en/players/0cd31129/Brennan-Johnson,WAL,FW, 23,33,24,2177,Tottenham
+Guglielmo Vicario,https://fbref.com/en/players/77d6fd4d/Guglielmo-Vicario,ITA,GK, 27,24,24,2160,Tottenham
+Son Heung-min,https://fbref.com/en/players/92e7e919/Son-Heung-min,KOR,FW, 32,30,24,2110,Tottenham
+Destiny Udogie,https://fbref.com/en/players/7cd520e8/Destiny-Udogie,ITA,DF, 21,25,24,1924,Tottenham
+Pape Matar Sarr,https://fbref.com/en/players/feb5d972/Pape-Matar-Sarr,SEN,MF, 21,36,22,1913,Tottenham
+James Maddison,https://fbref.com/en/players/ee38d9c5/James-Maddison,ENG,MF, 27,31,21,1809,Tottenham
+Rodrigo Bentancur,https://fbref.com/en/players/3b8674e6/Rodrigo-Bentancur,URU,MF, 27,26,21,1645,Tottenham
+Djed Spence,https://fbref.com/en/players/9bc9a519/Djed-Spence,ENG,DF, 23,25,19,1792,Tottenham
+Archie Gray,https://fbref.com/en/players/f58515f5/Archie-Gray,ENG,"DF,MF", 18,28,19,1751,Tottenham
+Cristian Romero,https://fbref.com/en/players/a3d94a58/Cristian-Romero,ARG,DF, 26,18,18,1416,Tottenham
+Yves Bissouma,https://fbref.com/en/players/6c203af0/Yves-Bissouma,MLI,MF, 27,28,16,1408,Tottenham
+Ben Davies,https://fbref.com/en/players/44781702/Ben-Davies,WAL,DF, 31,17,14,1331,Tottenham
+Radu Drăgușin,https://fbref.com/en/players/620922ed/Radu-Dragusin,ROU,DF, 22,16,14,1252,Tottenham
+Micky van de Ven,https://fbref.com/en/players/8fe2a392/Micky-van-de-Ven,NED,DF, 23,13,12,1015,Tottenham
+Lucas Bergvall,https://fbref.com/en/players/a109e5c8/Lucas-Bergvall,SWE,MF, 18,27,11,1212,Tottenham
+Mathys Tel,https://fbref.com/en/players/829aa60c/Mathys-Tel,FRA,FW, 19,13,11,911,Tottenham
+Wilson Odobert,https://fbref.com/en/players/35516eac/Wilson-Odobert,FRA,"FW,MF", 19,16,9,850,Tottenham
+Kevin Danso,https://fbref.com/en/players/6e33125f/Kevin-Danso,AUT,DF, 25,10,9,842,Tottenham
+Fraser Forster,https://fbref.com/en/players/c3e39f12/Fraser-Forster,ENG,GK, 36,7,7,630,Tottenham
+Antonín Kinský,https://fbref.com/en/players/b38ac6a4/Antonin-Kinsky,CZE,GK, 21,6,6,540,Tottenham
+Timo Werner,https://fbref.com/en/players/49fe9070/Timo-Werner,GER,"FW,MF", 28,18,4,516,Tottenham
+Richarlison,https://fbref.com/en/players/fa031b34/Richarlison,BRA,FW, 27,15,4,504,Tottenham
+Mikey Moore,https://fbref.com/en/players/00953a9d/Mikey-Moore,ENG,FW, 16,10,3,366,Tottenham
+Sergio Reguilón,https://fbref.com/en/players/3353737a/Sergio-Reguilon,ESP,DF, 27,4,1,196,Tottenham
+Brandon Austin,https://fbref.com/en/players/5e253986/Brandon-Austin,ENG,GK, 25,1,1,90,Tottenham
+Dane Scarlett,https://fbref.com/en/players/21945a9e/Dane-Scarlett,ENG,"FW,MF", 20,3,0,34,Tottenham
+Alfie Dorrington,https://fbref.com/en/players/ac1ef440/Alfie-Dorrington,ENG,DF, 19,1,0,14,Tottenham
+Will Lankshear,https://fbref.com/en/players/92df535b/Will-Lankshear,ENG,"FW,MF", 19,3,0,11,Tottenham
+Jamie Vardy,https://fbref.com/en/players/45963054/Jamie-Vardy,ENG,FW, 37,35,35,2823,Leicester City
+James Justin,https://fbref.com/en/players/fb614c44/James-Justin,ENG,DF, 26,36,34,2912,Leicester City
+Wout Faes,https://fbref.com/en/players/9c221d14/Wout-Faes,BEL,DF, 26,34,30,2815,Leicester City
+Victor Bernth Kristiansen,https://fbref.com/en/players/505486d6/Victor-Bernth-Kristiansen,DEN,DF, 21,30,29,2482,Leicester City
+Wilfred Ndidi,https://fbref.com/en/players/6b47c5db/Wilfred-Ndidi,NGA,MF, 27,28,28,2324,Leicester City
+Mads Hermansen,https://fbref.com/en/players/c924b17d/Mads-Hermansen,DEN,GK, 24,27,27,2385,Leicester City
+Bilal El Khannouss,https://fbref.com/en/players/f7042636/Bilal-El-Khannouss,MAR,"MF,FW", 20,32,27,2182,Leicester City
+Boubakary Soumaré,https://fbref.com/en/players/ae59b359/Boubakary-Soumare,FRA,MF, 25,31,25,2171,Leicester City
+Conor Coady,https://fbref.com/en/players/2928dca2/Conor-Coady,ENG,DF, 31,22,19,1714,Leicester City
+Jordan Ayew,https://fbref.com/en/players/da052c14/Jordan-Ayew,GHA,"FW,MF", 32,30,19,1638,Leicester City
+Harry Winks,https://fbref.com/en/players/2f7acede/Harry-Winks,ENG,MF, 28,22,17,1538,Leicester City
+Stephy Mavididi,https://fbref.com/en/players/30144daa/Stephy-Mavididi,ENG,FW, 26,30,16,1615,Leicester City
+Jannik Vestergaard,https://fbref.com/en/players/1900032e/Jannik-Vestergaard,DEN,DF, 31,18,16,1391,Leicester City
+Facundo Buonanotte,https://fbref.com/en/players/468a7a91/Facundo-Buonanotte,ARG,"FW,MF", 19,31,14,1523,Leicester City
+Luke Thomas,https://fbref.com/en/players/fc027d02/Luke-Thomas,ENG,DF, 23,14,13,1110,Leicester City
+Caleb Okoli,https://fbref.com/en/players/8ec109e6/Caleb-Okoli,ITA,DF, 23,19,12,1125,Leicester City
+Oliver Skipp,https://fbref.com/en/players/6250083a/Oliver-Skipp,ENG,MF, 23,24,10,1129,Leicester City
+Jakub Stolarczyk,https://fbref.com/en/players/a4a76b3d/Jakub-Stolarczyk,POL,GK, 23,10,10,900,Leicester City
+Kasey McAteer,https://fbref.com/en/players/b2c66859/Kasey-McAteer,IRL,FW, 22,18,9,852,Leicester City
+Bobby De Cordova-Reid,https://fbref.com/en/players/0f7533cd/Bobby-De-Cordova-Reid,JAM,FW, 31,23,9,744,Leicester City
+Patson Daka,https://fbref.com/en/players/ca45605e/Patson-Daka,ZAM,"FW,MF", 25,23,6,736,Leicester City
+Abdul Fatawu Issahaku,https://fbref.com/en/players/bceda5ff/Abdul-Fatawu-Issahaku,GHA,FW, 20,11,6,579,Leicester City
+Ricardo Pereira,https://fbref.com/en/players/75a72a99/Ricardo-Pereira,POR,DF, 30,10,4,388,Leicester City
+Danny Ward,https://fbref.com/en/players/d3ce0e89/Danny-Ward,WAL,GK, 31,2,1,135,Leicester City
+Hamza Choudhury,https://fbref.com/en/players/7d2d3329/Hamza-Choudhury,BAN,"MF,DF", 26,4,1,131,Leicester City
+Woyo Coulibaly,https://fbref.com/en/players/beb6e3a6/Woyo-Coulibaly,MLI,DF, 25,4,1,109,Leicester City
+Jeremy Monga,https://fbref.com/en/players/4c168d3a/Jeremy-Monga,,"FW,MF", ,7,0,112,Leicester City
+Odsonne Édouard,https://fbref.com/en/players/0562b7f1/Odsonne-Edouard,FRA,FW, 26,4,0,29,Leicester City
+Jake Evans,https://fbref.com/en/players/cb7bcef0/Jake-Evans,,FW, ,4,0,24,Leicester City
+Olabade Aluko,https://fbref.com/en/players/12bb637a/Olabade-Aluko,,DF, ,1,0,2,Leicester City
+Will Alves,https://fbref.com/en/players/39ef5a7b/Will-Alves,ENG,FW, 19,1,0,1,Leicester City
+Michael Golding,https://fbref.com/en/players/67c5e0e8/Michael-Golding,ENG,MF, 18,1,0,1,Leicester City
+Dara O'Shea,https://fbref.com/en/players/1d042188/Dara-OShea,IRL,DF, 25,35,35,3122,Ipswich Town
+Leif Davis,https://fbref.com/en/players/8574c61f/Leif-Davis,ENG,DF, 24,33,32,2743,Ipswich Town
+Liam Delap,https://fbref.com/en/players/dd897ee7/Liam-Delap,ENG,FW, 21,37,32,2593,Ipswich Town
+Sam Morsy,https://fbref.com/en/players/a23c0949/Sam-Morsy,EGY,MF, 32,33,31,2751,Ipswich Town
+Omari Hutchinson,https://fbref.com/en/players/bd9553e6/Omari-Hutchinson,ENG,"MF,FW", 20,31,30,2583,Ipswich Town
+Jacob Greaves,https://fbref.com/en/players/1f169636/Jacob-Greaves,ENG,DF, 23,25,25,2205,Ipswich Town
+Jens Cajuste,https://fbref.com/en/players/928a4a61/Jens-Cajuste,SWE,MF, 24,30,25,1959,Ipswich Town
+Axel Tuanzebe,https://fbref.com/en/players/2baec6ce/Axel-Tuanzebe,COD,DF, 26,22,20,1710,Ipswich Town
+Arijanet Muric,https://fbref.com/en/players/99aa1a84/Arijanet-Muric,KVX,GK, 25,18,18,1620,Ipswich Town
+Cameron Burgess,https://fbref.com/en/players/da61ca98/Cameron-Burgess,AUS,DF, 28,18,16,1541,Ipswich Town
+Ben Johnson,https://fbref.com/en/players/9319781b/Ben-Johnson,ENG,"DF,FW", 24,23,14,1354,Ipswich Town
+Kalvin Phillips,https://fbref.com/en/players/4f565d77/Kalvin-Phillips,ENG,MF, 28,19,14,1237,Ipswich Town
+Alex Palmer,https://fbref.com/en/players/6ea97fd5/Alex-Palmer,ENG,GK, 27,13,13,1170,Ipswich Town
+Sammie Szmodics,https://fbref.com/en/players/39944392/Sammie-Szmodics,IRL,"FW,MF", 28,20,13,992,Ipswich Town
+Luke Woolfenden,https://fbref.com/en/players/e28e9bec/Luke-Woolfenden,ENG,DF, 25,15,12,1187,Ipswich Town
+Jack Clarke,https://fbref.com/en/players/e16932d8/Jack-Clarke,ENG,"FW,MF", 23,32,12,1181,Ipswich Town
+Wes Burns,https://fbref.com/en/players/b3fe23c6/Wes-Burns,WAL,"FW,DF", 29,18,12,926,Ipswich Town
+Julio Enciso,https://fbref.com/en/players/9cfbad36/Julio-Enciso,PAR,"MF,FW", 20,13,12,869,Ipswich Town
+Conor Chaplin,https://fbref.com/en/players/4ec55b87/Conor-Chaplin,ENG,"MF,FW", 27,22,10,857,Ipswich Town
+Nathan Broadhead,https://fbref.com/en/players/43309491/Nathan-Broadhead,WAL,"MF,FW", 26,18,7,702,Ipswich Town
+Christian Walton,https://fbref.com/en/players/c666574f/Christian-Walton,ENG,GK, 28,7,7,630,Ipswich Town
+George Hirst,https://fbref.com/en/players/78e87179/George-Hirst,SCO,FW, 25,26,5,661,Ipswich Town
+Jaden Philogene Bidace,https://fbref.com/en/players/19f4d211/Jaden-Philogene-Bidace,ENG,"FW,DF", 22,10,5,474,Ipswich Town
+Jack Taylor,https://fbref.com/en/players/48eed8d5/Jack-Taylor,IRL,MF, 26,32,4,860,Ipswich Town
+Harry Clarke,https://fbref.com/en/players/a64f2573/Harry-Clarke,ENG,DF, 23,7,4,379,Ipswich Town
+Conor Townsend,https://fbref.com/en/players/4dc4f138/Conor-Townsend,ENG,DF, 31,6,3,335,Ipswich Town
+Chiedozie Ogbene,https://fbref.com/en/players/788c0277/Chiedozie-Ogbene,IRL,FW, 27,5,3,238,Ipswich Town
+Massimo Luongo,https://fbref.com/en/players/967ac6e1/Massimo-Luongo,AUS,MF, 31,11,2,201,Ipswich Town
+Ben Godfrey,https://fbref.com/en/players/9f7c837d/Ben-Godfrey,ENG,DF, 26,3,2,159,Ipswich Town
+Ali Al Hamadi,https://fbref.com/en/players/8450467d/Ali-Al-Hamadi,IRQ,FW, 22,11,0,134,Ipswich Town
+Marcus Harness,https://fbref.com/en/players/90e9ca3d/Marcus-Harness,ENG,MF, 28,2,0,45,Ipswich Town
+George Edmundson,https://fbref.com/en/players/46ff3923/George-Edmundson,ENG,DF, 26,1,0,2,Ipswich Town
+Mateus Fernandes,https://fbref.com/en/players/ef491564/Mateus-Fernandes,POR,MF, 20,36,34,2909,Southampton
+Kyle Walker-Peters,https://fbref.com/en/players/984a5a64/Kyle-Walker-Peters,ENG,DF, 27,33,33,2918,Southampton
+Taylor Harwood-Bellis,https://fbref.com/en/players/47327321/Taylor-Harwood-Bellis,ENG,DF, 22,34,32,2825,Southampton
+Aaron Ramsdale,https://fbref.com/en/players/466fb2c5/Aaron-Ramsdale,ENG,GK, 26,30,30,2700,Southampton
+Jan Bednarek,https://fbref.com/en/players/4115ce4e/Jan-Bednarek,POL,DF, 28,30,30,2531,Southampton
+Flynn Downes,https://fbref.com/en/players/69fdb896/Flynn-Downes,ENG,MF, 25,27,25,2151,Southampton
+Joe Aribo,https://fbref.com/en/players/328f7d51/Joe-Aribo,NGA,"MF,DF", 28,32,21,2013,Southampton
+Tyler Dibling,https://fbref.com/en/players/bdcc89ae/Tyler-Dibling,ENG,"FW,MF", 18,33,20,1874,Southampton
+Lesley Ugochukwu,https://fbref.com/en/players/1df4a109/Lesley-Ugochukwu,FRA,MF, 20,26,18,1655,Southampton
+Ryan Manning,https://fbref.com/en/players/847b53eb/Ryan-Manning,IRL,"DF,MF", 28,24,18,1462,Southampton
+Kamaldeen Sulemana,https://fbref.com/en/players/a62f8bf1/Kamaldeen-Sulemana,GHA,"FW,MF", 22,26,17,1402,Southampton
+Jack Stephens,https://fbref.com/en/players/6adbc307/Jack-Stephens,ENG,DF, 30,19,17,1389,Southampton
+Yukinari Sugawara,https://fbref.com/en/players/580bcd18/Yukinari-Sugawara,JPN,"DF,MF", 24,30,16,1557,Southampton
+Adam Armstrong,https://fbref.com/en/players/68c720b5/Adam-Armstrong,ENG,"FW,MF", 27,20,15,1248,Southampton
+Cameron Archer,https://fbref.com/en/players/05e8ca6d/Cameron-Archer,ENG,FW, 23,35,13,1441,Southampton
+James Bree,https://fbref.com/en/players/c07b7c5c/James-Bree,ENG,DF, 26,17,13,1075,Southampton
+Paul Onuachu,https://fbref.com/en/players/c06d1086/Paul-Onuachu,NGA,FW, 30,25,11,1050,Southampton
+Nathan Wood-Gordon,https://fbref.com/en/players/4ccf2d5b/Nathan-Wood-Gordon,ENG,DF, 22,11,9,773,Southampton
+William Smallbone,https://fbref.com/en/players/5e105217/William-Smallbone,IRL,MF, 24,18,6,690,Southampton
+Welington,https://fbref.com/en/players/a7f95b1f/Welington,BRA,DF, 23,10,6,482,Southampton
+Alex McCarthy,https://fbref.com/en/players/36c2ca73/Alex-McCarthy,ENG,GK, 34,5,5,450,Southampton
+Adam Lallana,https://fbref.com/en/players/99813635/Adam-Lallana,ENG,MF, 36,14,5,361,Southampton
+Ben Brereton,https://fbref.com/en/players/57827369/Ben-Brereton,CHI,FW, 25,10,4,449,Southampton
+Ross Stewart,https://fbref.com/en/players/18986367/Ross-Stewart,SCO,FW, 28,12,4,389,Southampton
+Ryan Fraser,https://fbref.com/en/players/d56543a0/Ryan-Fraser,SCO,"FW,DF", 30,8,4,306,Southampton
+Charlie Taylor,https://fbref.com/en/players/cc2d7ad5/Charlie-Taylor,ENG,DF, 30,8,3,356,Southampton
+Joe Lumley,https://fbref.com/en/players/bdf3a08e/Joe-Lumley,ENG,GK, 29,3,3,270,Southampton
+Armel Bella Kotchap,https://fbref.com/en/players/a39d11bc/Armel-Bella-Kotchap,GER,DF, 22,4,2,331,Southampton
+Albert Grønbaek,https://fbref.com/en/players/0da5076f/Albert-Gronbaek,DEN,"FW,MF", 23,4,2,143,Southampton
+Jay Robinson,https://fbref.com/en/players/2a616c85/Jay-Robinson,ENG,"MF,FW", 17,4,1,137,Southampton
+Maxwel Cornet,https://fbref.com/en/players/beb391dd/Maxwel-Cornet,CIV,FW, 27,2,1,72,Southampton
+Samuel Edozie,https://fbref.com/en/players/007414dd/Samuel-Edozie,ENG,"DF,FW", 21,2,0,65,Southampton
+Samuel Amo-Ameyaw,https://fbref.com/en/players/9eedf0e0/Samuel-Amo-Ameyaw,ENG,"FW,DF", 18,2,0,28,Southampton
+Joachim Kayi Sanda,https://fbref.com/en/players/e2b2a181/Joachim-Kayi-Sanda,FRA,DF, 17,2,0,14,Southampton
+Ronnie Edwards,https://fbref.com/en/players/be90c4b0/Ronnie-Edwards,ENG,DF, 21,1,0,12,Southampton
+Carlos Alcaraz,https://fbref.com/en/players/4abac767/Carlos-Alcaraz,ARG,MF, 21,1,0,10,Southampton
