@@ -1,6 +1,7 @@
 import Content from '../Content/Content';
 import {datacontent}  from '../Content/db';
 import './Main-content.css';
+import HousePricePredictor from '../HousePricePredictor/HousePricePredictor';
 
 function MainContent() {
     return(
@@ -11,6 +12,10 @@ function MainContent() {
                     <Content key={index} {...item} />
                 ))}
             </ul>
+            <div className="predict-house-section">
+                <h2>Dự đoán giá nhà</h2>
+                <HousePricePredictor />
+            </div>
         </div>
     )
 }

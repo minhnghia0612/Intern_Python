@@ -1,0 +1,68 @@
+/* Tổng thể */
+.predictor-container {
+  max-width: 500px;
+  margin: 80px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9fafb;
+}
+
+.predictor-title {
+  text-align: center;
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+/* Form */
+.predictor-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.predictor-input {
+  padding: 10px 14px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: border-color 0.3s;
+}
+
+.predictor-input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.predictor-button {
+  padding: 12px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.predictor-button:hover {
+  background-color: #0056b3;
+}
+
+/* Kết quả */
+.predictor-result {
+  margin-top: 20px;
+  padding: 14px;
+  background-color: #e9f5e9;
+  border: 1px solid #b2d8b2;
+  color: #2d662d;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+}
+.predictor-input {
+  color: #007bff; 
+}

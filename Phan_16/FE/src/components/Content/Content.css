@@ -8,11 +8,13 @@
   list-style: none;
   margin: 10px;
 }
-img{
-    width: 279.33px;
+.content-item img{
+    width: 285px;
     height: 150px;
+    margin: auto;
+    text-align: center;
 }
-h3{
+.content-item h3{
     color:black;
     padding-left: 15px !important;
     margin: 0;
@@ -20,7 +22,7 @@ h3{
 .des{
     display: flex;
 }
-p{
+.content-item p{
     color:#e03c31;
     font-size: 16px;
     font-weight: normal;

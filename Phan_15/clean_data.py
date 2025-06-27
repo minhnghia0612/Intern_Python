@@ -46,8 +46,6 @@ def item_guess(db_cafe):
     return db_cafe
 
 db_cafe = item_guess(db_cafe)
-# print(db_cafe.info())
-# print(db_cafe[db_cafe['Item'].isna()])
 imputer_item = SimpleImputer(missing_values=np.nan, strategy='most_frequent')# Giá trị được nhiều nhất
 db_cafe[['Item']] = imputer_item.fit_transform(db_cafe[['Item']])
 #Xử lý price thiếu sau khi có item
@@ -74,25 +72,8 @@ imputer_total = SimpleImputer(missing_values=np.nan, strategy='median')# Giá tr
 db_cafe[['Quantity']] = imputer_total.fit_transform(db_cafe[['Quantity']])
 # Xử lý total thiếu
 db_cafe['Total Spent'] = db_cafe['Total Spent'].fillna(db_cafe['Price Per Unit'] * db_cafe['Quantity'])
-# print(db_cafe[db_cafe['Total Spent'].isna()])
-# print(db_cafe.info())
 imputer_payment = SimpleImputer(missing_values=np.nan, strategy='most_frequent')
 imputer_location = SimpleImputer(missing_values=np.nan, strategy='most_frequent')
 
 db_cafe[['Payment Method']] = imputer_payment.fit_transform(db_cafe[['Payment Method']])
 db_cafe[['Location']] = imputer_location.fit_transform(db_cafe[['Location']])
-# print(db_cafe.head(50))
-# print(db_cafe.info())
-
-#Chuẩn hóa dữ liệu bằng StandardScaler
-# scaler_db = StandardScaler()
-# db_cafe_col = ['Quantity', 'Price Per Unit', 'Total Spent'] 
-# db_cafe[db_cafe_col] = scaler_db.fit_transform(db_cafe[db_cafe_col])
-
-
-# print(db_cafe[db_cafe_col].describe())
-
-# plt.figure(figsize=(12, 6))
-# sns.boxplot(data=db_cafe[['Quantity', 'Price Per Unit', 'Total Spent']])
-# plt.title("Boxplot for Outlier Detection")
-# plt.show()

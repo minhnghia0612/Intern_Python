@@ -3,7 +3,8 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import mean_squared_error,mean_absolute_error
+import joblib
 ct = ColumnTransformer(
     transformers=[
         ('encoder', OneHotEncoder(), ['Item', 'Payment Method', 'Location']) 
@@ -25,6 +26,12 @@ model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
 
+#Sai số bình phương trung bình
 mse = mean_squared_error(y_test, y_pred)
+#Sai số tuyệt đối trung bình
+mae = mean_absolute_error(y_test, y_pred)   
 
 print(mse)
+print(mae)
+
+joblib.dump(model, 'Du_doan_gia_thuc_uong.pkl')

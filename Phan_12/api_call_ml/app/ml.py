@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 import joblib
 
 # read data
-df = pd.read_csv("Housing.csv")
+df = pd.read_csv("Phan_12/api_call_ml/app/Housing.csv")
 # area of a house
 # number of house bedrooms
 # number if bathrooms
@@ -25,7 +25,7 @@ df_clean = df[~((df["area"] < (Q1 - 1 * IQR)) | (df["area"] > (Q3 + 1 * IQR)))]
 # print("Số lượng dữ liệu sau khi loại bỏ outliers:", len(df_clean))
 # print("Số lượng dữ liệu ban đầu:", len(df))
 
-x = df_clean[["area", "bedrooms", "bathrooms", "stories"]]
+x = df_clean[["area"]]
 y = df_clean["price"]
 model = LinearRegression()
 model.fit(x, y)
@@ -33,26 +33,27 @@ model.fit(x, y)
 # Lưu mô hình đã huấn luyện
 joblib.dump(model, "housing_model.pkl")
 
-# y_pred = model.predict(x)
+y_pred = model.predict(x)
 
-# sns.scatterplot(
-#     data=df_clean,
-#     x="area",
-#     y="price",
-#     alpha=0.5
-# )
+sns.scatterplot(
+    data=df_clean,
+    x="area",
+    y="price",
+    alpha=0.5
+)
 
-# sns.lineplot(
-#     x = df_clean["area"],
-#     y = y_pred,
-#     linewidth = 1.5,
-#     color = 'red'
-# )
+sns.lineplot(
+    x = df_clean["area"],
+    y = y_pred,
+    linewidth = 1.5,
+    color = 'red'
+)
 
-# plt.title("Giá nhà theo diện tích")
-# plt.xlabel("Area")  
-# plt.ylabel("Price")
-# plt.show()
+plt.title("Giá nhà theo diện tích")
+plt.xlabel("Area")  
+plt.ylabel("Price")
+plt.show()
 
 
 # # dữ liệu đã được làm sạch tuy nhiên việc phân bố vẫn chưa được đồng đều để vẽ
+#Đánh giá lại mô hình xem độ chính xác như nào

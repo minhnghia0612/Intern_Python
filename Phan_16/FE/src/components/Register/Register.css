@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.page{
+    background-image: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    
+}
+.container{
+    max-width: 300px;
+    margin: 100px auto;
+    padding: 30px 20px;
+    background:rgba( 0, 191, 257,0.3);
+    border-radius: 10px;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    color: brown;
+    margin-bottom: 20px;
+}
+p{
+    color: #eee;
+    margin-top: 5px;
+    
+}
+
+form input {
+    width: 93%;
+    padding: 12px 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+form button{
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    transition: background-color 0.3s ease;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+form button:hover{
+    background-color: #0056b3;
+}

@@ -18,11 +18,34 @@
     width: auto;
 }
 
-.header-menu-left,
-.header-menu-right {
+.header-menu-left, .header-menu-right{
     padding: 5px 20px;
     display: flex;
     align-items: center;
+}
+
+.header-menu-right li{
+    color: black;
+    font-weight: bold;
+    list-style: none;
+    margin: 10px;
+}
+
+.header-menu-right button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.header-menu-right button:hover {
+  background-color: #45a049; 
+  transform: translateY(-2px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
 a{
